@@ -1,0 +1,50 @@
+1. Sir Isaac Newton
+2. Galileo Galilei
+3. Marie Curie
+4. Albert Einstein
+5. Nikola Tesla
+6. Charles Darwin
+7. Johannes Kepler
+8. Nicolaus Copernicus
+9. Gregor Mendel
+10. Michael Faraday
+11. James Clerk Maxwell
+12. Dmitri Mendeleev
+13. Antoine Lavoisier
+14. Louis Pasteur
+15. Robert Hooke
+16. Christiaan Huygens
+17. Edmond Halley
+18. Tycho Brahe
+19. Blaise Pascal
+20. René Descartes
+21. Leonhard Euler
+22. Carl Friedrich Gauss
+23. Srinivasa Ramanujan
+24. Ada Lovelace
+25. Alan Turing
+26. Rosalind Franklin
+27. Niels Bohr
+28. Erwin Schrödinger
+29. Max Planck
+30. Werner Heisenberg
+31. Richard Feynman
+32. Stephen Hawking
+33. Edwin Hubble
+34. Carl Sagan
+35. Edward Jenner
+36. Alexander Fleming
+37. Barbara McClintock
+38. Dorothy Hodgkin
+39. Chien-Shiung Wu
+40. C. V. Raman
+41. Jagadish Chandra Bose
+42. Homi J. Bhabha
+43. A. P. J. Abdul Kalam
+44. Satyendra Nath Bose
+45. Ibn al-Haytham
+46. Al-Khwarizmi
+47. Avicenna (Ibn Sina)
+48. Archimedes
+49. Aristotle
+50. Zhang Heng

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>ScienceVerse</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+
+    <section class="hero">
+
+        <p class="archive-label">
+            THE ARCHIVE OF
+        </p>
+
+        <h1>ScienceVerse</h1>
+
+        <h2>
+            Tracing Humanity's Scientific Journey
+        </h2>
+
+        <p class="quote">
+            "Every discovery begins with curiosity."
+        </p>
+
+        <p>
+            Step into an interactive archive where history,
+            science and exploration come together.
+        </p>
+
+        <button id="enterButton">
+            Enter the Archive
+        </button>
+
+    </section>
+
+    <section class="map-section">
+
+        <h2>World of Discovery</h2>
+
+        <p class="map-subtitle">
+            Drag the timeline to reveal where history unfolded.
+        </p>
+
+        <div class="world-map">
+
+            <img
+                src="/static/images/backgrounds/world_map.jpg"
+                alt="World Map">
+                <div id="mapDots"></div>
+
+        </div>
+
+    </section>
+
+
+    <section id="timeline" class="timeline-section">
+
+        <h2>The Passage of Time</h2>
+
+        <p id="timelineYear" class="timeline-year">624 BC</p>
+        <p id="timelineEra" class="timeline-era">
+            Scientific Revolution
+        </p>
+        <input
+            type="range"
+            id="timelineSlider"
+            min="-624"
+            max="2025"
+            value="-624"
+            step="1">
+
+    </section>
+
+
+    <section class="hall-section">
+
+        <h2>Hall of Legends</h2>
+
+        <p class="hall-description">
+            Meet some of history's most influential scientists.
+        </p>
+
+        <div class="legend-card" id="legendCard">
+
+        </div>
+
+        <div class="hall-buttons">
+
+            <button id="prevBtn">❮ Previous</button>
+
+            <button id="nextBtn">Next ❯</button>
+
+        </div>
+
+    </section>
+    <section class="chatbot-section">
+
+        <h2>The Archivist</h2>
+
+        <p>
+
+            Ask questions about the history of science,
+            discoveries and scientists.
+
+        </p>
+
+        <input
+            id="userInput"
+            type="text"
+            placeholder="Search the Archive (enter the science's name)..." />
+
+        <button id="sendButton">
+
+            Ask The Archivist
+
+        </button>
+        <div id="chatWindow" class="chat-window"></div>
+
+    </section>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+
+</html>

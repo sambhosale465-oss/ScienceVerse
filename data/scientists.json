@@ -1,0 +1,2769 @@
+{
+  "scientists": [
+    {
+      "id": "newton",
+      "name": "Sir Isaac Newton",
+      "portrait": "pic_scientists/newton.jpg",
+      "country": "England",
+      "birth": 1643,
+      "death": 1727,
+      "era": "Scientific Revolution",
+      "field": [
+        "Physics",
+        "Mathematics",
+        "Astronomy"
+      ],
+      " ": "Physics",
+      "location": {
+        "lat": 52.95,
+        "lng": -0.633
+      },
+      "mapPosition": {
+        "left": "48.7%",
+        "top": "28.7%"
+      },
+      "discoveries": [
+        "Laws of Motion",
+        "Universal Gravitation",
+        "Calculus"
+      ],
+      "description": "Isaac Newton laid the foundations of classical mechanics and developed calculus independently.",
+      "featured": true,
+      "importance": 5,
+      "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton",
+      "papers": [
+        {
+          "title": "Philosophiæ Naturalis Principia Mathematica",
+          "url": "https://www.gutenberg.org/ebooks/76404"
+        },
+        {
+          "title": "Opticks",
+          "url": "https://www.gutenberg.org/files/33504/33504-h/33504-h.htm"
+        }
+      ],
+      "related": [
+        "galileo",
+        "einstein"
+      ]
+    },
+    {
+      "id": "galileo",
+      "name": "Galileo Galilei",
+      "portrait": "pic_scientists/galileo.jpg",
+      "country": "Italy",
+      "birth": 1564,
+      "death": 1642,
+      "era": "Scientific Revolution",
+      "field": [
+        "Astronomy",
+        "Physics"
+      ],
+      "primaryField": "Astronomy",
+      "location": {
+        "lat": 43.7228,
+        "lng": 10.4017
+      },
+      "mapPosition": {
+        "left": "49.9%",
+        "top": "34.9%"
+      },
+      "discoveries": [
+        "Jupiter's Moons",
+        "Improved Telescope",
+        "Laws of Falling Bodies"
+      ],
+      "description": "Galileo's observations transformed astronomy and supported the heliocentric model of the Solar System.",
+      "featured": true,
+      "importance": 5,
+      "wikipedia": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+      "papers": [
+        {
+          "title": "Sidereus Nuncius (The Starry Messenger)",
+          "url": "https://archive.org/search?query=Sidereus+Nuncius"
+        },
+        {
+          "title": "Dialogue Concerning the Two Chief World Systems",
+          "url": "https://www.gutenberg.org/ebooks/37729"
+        }
+      ],
+      "related": [
+        "newton",
+        "kepler"
+      ]
+    },
+    {
+      "id": "curie",
+      "name": "Marie Curie",
+      "portrait": "pic_scientists/curie.webp",
+      "country": "Poland",
+      "birth": 1867,
+      "death": 1934,
+      "era": "Modern Science",
+      "field": [
+        "Physics",
+        "Chemistry"
+      ],
+      "primaryField": "Chemistry",
+      "location": {
+        "lat": 52.2297,
+        "lng": 21.0122
+      },
+      "mapPosition": {
+        "left": "54.3%",
+        "top": "29.3%"
+      },
+      "discoveries": [
+        "Radioactivity",
+        "Polonium",
+        "Radium"
+      ],
+      "description": "Marie Curie pioneered research on radioactivity and became the first person to win two Nobel Prizes.",
+      "featured": true,
+      "importance": 5,
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "papers": [
+        {
+          "title": "Nobel Prize – Marie Curie",
+          "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/"
+        },
+        {
+          "title": "Radioactive Substances (Internet Archive)",
+          "url": "https://archive.org/search?query=Marie+Curie+Radioactive+Substances"
+        }
+      ],
+      "related": [
+        "einstein",
+        "tesla"
+      ]
+    },
+    {
+      "id": "einstein",
+      "name": "Albert Einstein",
+      "portrait": "pic_scientists/einstein.jpg",
+      "country": "Germany",
+      "birth": 1879,
+      "death": 1955,
+      "era": "Modern Science",
+      "field": [
+        "Physics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 48.1351,
+        "lng": 11.582
+      },
+      "mapPosition": {
+        "left": "51.0%",
+        "top": "32.0%"
+      },
+      "discoveries": [
+        "Theory of Relativity",
+        "Photoelectric Effect"
+      ],
+      "description": "Albert Einstein revolutionized physics through the theories of special and general relativity.",
+      "featured": true,
+      "importance": 5,
+      "wikipedia": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "papers": [
+        {
+          "title": "Relativity: The Special and General Theory",
+          "url": "https://www.gutenberg.org/ebooks/5001"
+        },
+        {
+          "title": "The Collected Papers of Albert Einstein",
+          "url": "https://www.einstein.caltech.edu/what-we-do/published-volumes"
+        }
+      ],
+      "related": [
+        "newton",
+        "curie"
+      ]
+    },
+    {
+      "id": "tesla",
+      "name": "Nikola Tesla",
+      "portrait": "pic_scientists/tesla.jpeg",
+      "country": "Serbia",
+      "birth": 1856,
+      "death": 1943,
+      "era": "Modern Science",
+      "field": [
+        "Electrical Engineering",
+        "Physics"
+      ],
+      "primaryField": "Electrical Engineering",
+      "location": {
+        "lat": 44.8666,
+        "lng": 15.3139
+      },
+      "mapPosition": {
+        "left": "51.4%",
+        "top": "34.2%"
+      },
+      "discoveries": [
+        "AC Power Systems",
+        "Tesla Coil",
+        "Wireless Power Concepts"
+      ],
+      "description": "Nikola Tesla developed groundbreaking technologies for alternating current electrical systems.",
+      "featured": true,
+      "importance": 5,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "papers": [
+        {
+          "title": "My Inventions",
+          "url": "https://www.gutenberg.org/ebooks/39272"
+        },
+        {
+          "title": "Experiments with Alternate Currents",
+          "url": "https://archive.org/search?query=Nikola+Tesla+Experiments+with+Alternate+Currents"
+        }
+      ],
+      "related": [
+        "einstein",
+        "curie"
+      ]
+    },
+    {
+      "id": "charles_darwin",
+      "name": "Charles Darwin",
+      "portrait": "pic_scientists/darwin.avif",
+      "country": "England",
+      "birth": 1809,
+      "death": 1882,
+      "era": "Industrial Age",
+      "field": [
+        "Biology",
+        "Natural History"
+      ],
+      "primaryField": "Biology",
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "mapPosition": {
+        "left": "48.6%",
+        "top": "29.7%"
+      },
+      "discoveries": [
+        "Theory of Evolution by Natural Selection",
+        "Common Descent of Species"
+      ],
+      "description": "Charles Darwin was an English naturalist whose theory of evolution by natural selection transformed biology. His observations during the voyage of HMS Beagle and subsequent research led to the publication of 'On the Origin of Species' in 1859, providing the foundation for modern evolutionary biology.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Darwin",
+      "papers": [
+        {
+          "title" : "On the Origin of Species (1859), The Descent of Man (1871),The Variation of Animals and Plants under Domestication (1868)",
+          "url" : "https://darwin-online.org.uk/manuscripts_announcement.html"
+        }
+      ],
+      "related": [
+        "Gregor Mendel",
+        "Alfred Russel Wallace",
+        "Thomas Henry Huxley"
+      ]
+    },
+    {
+      "id": "johannes_kepler",
+      "name": "Johannes Kepler",
+      "portrait": "pic_scientists/kepler.jpg",
+      "country": "Germany",
+      "birth": 1571,
+      "death": 1630,
+      "era": "Scientific Revolution",
+      "field": [
+        "Astronomy",
+        "Mathematics"
+      ],
+      "primaryField": "Astronomy",
+      "location": {
+        "lat": 48.7758,
+        "lng": 9.1829
+      },
+      "mapPosition": {
+        "left": "50.5%",
+        "top": "31.5%"
+      },
+      "discoveries": [
+        "Kepler's Laws of Planetary Motion",
+        "Elliptical Orbits of Planets"
+      ],
+      "description": "Johannes Kepler was a German astronomer, mathematician, and astronomer whose three laws of planetary motion revolutionized our understanding of the Solar System. Using Tycho Brahe's precise observations, he demonstrated that planets orbit the Sun in ellipses rather than perfect circles, laying the groundwork for Isaac Newton's law of universal gravitation.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+      "papers": [
+        {
+          "title" : "Astronomia Nova (1609), Harmonices Mundi (1619), Epitome Astronomiae Copernicanae (1618–1621)",
+          "url" : "https://library.si.edu/digital-library/book/johanneskeplerp00kepl"
+        }
+      ],
+      "related": [
+        "Tycho Brahe",
+        "Galileo Galilei",
+        "Sir Isaac Newton"
+      ]
+    },
+    {
+      "id": "nicolaus_copernicus",
+      "name": "Nicolaus Copernicus",
+      "portrait": "pic_scientists/copernicus.jpg",
+      "country": "Poland",
+      "birth": 1473,
+      "death": 1543,
+      "era": "Renaissance",
+      "field": [
+        "Astronomy",
+        "Mathematics"
+      ],
+      "primaryField": "Astronomy",
+      "location": {
+        "lat": 53.0138,
+        "lng": 18.5984
+      },
+      "mapPosition": {
+        "left": "53.8%",
+        "top": "28.8%"
+      },
+      "discoveries": [
+        "Heliocentric Theory",
+        "Earth's Rotation and Revolution Around the Sun"
+      ],
+      "description": "Nicolaus Copernicus was a Polish astronomer and mathematician who proposed the heliocentric model of the Solar System, placing the Sun at its center instead of the Earth. His revolutionary work challenged centuries of geocentric belief and marked the beginning of modern astronomy, paving the way for Kepler, Galileo, and Newton.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+      "papers": [
+        {
+          "title" : "De revolutionibus orbium coelestium (1543), Commentariolus (c. 1514)",
+          "url" : "https://plato.stanford.edu/entries/copernicus/"
+        }
+      ],
+      "related": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Tycho Brahe"
+      ]
+    },
+    {
+      "id": "gregor_mendel",
+      "name": "Gregor Mendel",
+      "portrait": "pic_scientists/mendel.webp",
+      "country": "Austria",
+      "birth": 1822,
+      "death": 1884,
+      "era": "Industrial Age",
+      "field": [
+        "Genetics",
+        "Biology"
+      ],
+      "primaryField": "Genetics",
+      "location": {
+        "lat": 49.1951,
+        "lng": 16.6068
+      },
+      "mapPosition": {
+        "left": "52.5%",
+        "top": "31.3%"
+      },
+      "discoveries": [
+        "Laws of Inheritance",
+        "Principles of Genetic Heredity"
+      ],
+      "description": "Gregor Mendel was an Austrian scientist and Augustinian friar widely regarded as the father of modern genetics. Through his experiments on pea plants, he discovered the fundamental laws of inheritance, demonstrating how traits are passed from one generation to the next. His work laid the foundation for the field of genetics, although its significance was recognized only decades after his death.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+      "papers": [
+        { 
+          "title" :"Experiments on Plant Hybridization (1866)",
+          "url" : "https://cs.brown.edu/people/rblumber/MendelWeb/archive/Mendel.Experiments.html"
+      }
+      ],
+      "related": [
+        "Charles Darwin",
+        "Rosalind Franklin",
+        "Barbara McClintock"
+      ]
+    },
+    {
+      "id": "michael_faraday",
+      "name": "Michael Faraday",
+      "portrait": "pic_scientists/faraday.webp",
+      "country": "England",
+      "birth": 1791,
+      "death": 1867,
+      "era": "Industrial Age",
+      "field": [
+        "Physics",
+        "Chemistry"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "mapPosition": {
+        "left": "48.6%",
+        "top": "29.7%"
+      },
+      "discoveries": [
+        "Electromagnetic Induction",
+        "Faraday's Laws of Electrolysis",
+        "Electric Motor Principle",
+        "Faraday Cage"
+      ],
+      "description": "Michael Faraday was an English physicist and chemist whose pioneering work on electricity and magnetism laid the foundation for modern electrical engineering. He discovered electromagnetic induction, the principle behind electric generators and transformers, and made significant contributions to electrochemistry. Despite having little formal education, he became one of the most influential experimental scientists in history.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_Faraday",
+      "papers": [
+        {
+          "title" :"Experimental Researches in Electricity (1839–1855)",
+          "url" : "https://commons.princeton.edu/josephhenry/wp-content/uploads/sites/71/2019/08/faraday.pdf"
+        }
+        ],
+      "related": [
+        "James Clerk Maxwell",
+        "Nikola Tesla",
+        "André-Marie Ampère"
+      ]
+    },
+    {
+      "id": "james_clerk_maxwell",
+      "name": "James Clerk Maxwell",
+      "portrait": "pic_scientists/maxwell.jpg",
+      "country": "Scotland",
+      "birth": 1831,
+      "death": 1879,
+      "era": "Industrial Age",
+      "field": [
+        "Physics",
+        "Mathematics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "mapPosition": {
+        "left": "48.6%",
+        "top": "26.7%"
+      },
+      "discoveries": [
+        "Maxwell's Equations",
+        "Electromagnetic Theory of Light",
+        "Kinetic Theory of Gases",
+        "First Permanent Color Photograph"
+      ],
+      "description": "James Clerk Maxwell was a Scottish physicist and mathematician whose work unified electricity, magnetism, and light into a single theory of electromagnetism. His four equations, now known as Maxwell's Equations, are among the most important in physics and laid the foundation for modern technologies such as radio, television, radar, and wireless communication. He also made significant contributions to thermodynamics, statistical mechanics, and color vision.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+      "papers": [
+        {
+          "title" : "A Dynamical Theory of the Electromagnetic Field (1865), On Physical Lines of Force (1861–1862), Theory of Heat (1871)",
+          "url" : "https://archive.org/details/scientificpapers01maxw/page/n5/mode/2up"
+        }
+      ],
+      "related": [
+        "Michael Faraday",
+        "Albert Einstein",
+        "Heinrich Hertz"
+      ]
+    },
+    {
+      "id": "dmitri_mendeleev",
+      "name": "Dmitri Mendeleev",
+      "portrait": "pic_scientists/mendeleev.webp",
+      "country": "Russia",
+      "birth": 1834,
+      "death": 1907,
+      "era": "Industrial Age",
+      "field": [
+        "Chemistry"
+      ],
+      "primaryField": "Chemistry",
+      "location": {
+        "lat": 59.9343,
+        "lng": 30.3351
+      },
+      "mapPosition": {
+        "left": "58.2%",
+        "top": "24.2%"
+      },
+      "discoveries": [
+        {
+          "title" : "The Relation of the Properties to the Atomic Weight of the Elements",
+          "url" : "https://origins.osu.edu/milestones/mendeleev-periodic-table-UN-chemistry-radioactivity-noble-gases"
+        },
+        {
+        "title":"Periodic Law",
+        "url" : "https://www.britannica.com/biography/Dmitri-Mendeleev"
+        }
+      ],
+      "description": "Dmitri Mendeleev was a Russian chemist best known for creating the first widely accepted periodic table of elements. He organized elements according to their atomic properties and boldly left gaps for elements that had not yet been discovered, accurately predicting many of their characteristics. His work became the foundation of modern chemistry and transformed the study of chemical elements.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+      "papers": [
+        "Principles of Chemistry (1869–1871)",
+        "The Relation between the Properties and Atomic Weights of the Elements (1869)"
+      ],
+      "related": [
+        "Antoine Lavoisier",
+        "Marie Curie",
+        "Henry Moseley"
+      ]
+    },
+    {
+      "id": "antoine_lavoisier",
+      "name": "Antoine Lavoisier",
+      "portrait": "pic_scientists/lavoisier.webp",
+      "country": "France",
+      "birth": 1743,
+      "death": 1794,
+      "era": "Enlightenment",
+      "field": [
+        "Chemistry"
+      ],
+      "primaryField": "Chemistry",
+      "location": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "mapPosition": {
+        "left": "48.7%",
+        "top": "31.4%"
+      },
+      "discoveries": [
+        "Law of Conservation of Mass",
+        "Role of Oxygen in Combustion",
+        "Modern Chemical Nomenclature"
+      ],
+      "description": "Antoine Lavoisier was a French chemist widely regarded as the father of modern chemistry. He established the Law of Conservation of Mass, demonstrated that combustion and respiration involve oxygen, and helped replace outdated theories with quantitative scientific methods. His systematic approach and standardized chemical naming revolutionized chemistry as a modern science.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+      "papers": [
+        {
+          "title" : "commemorative booklet",
+          "url" : "https://www.acs.org/content/dam/acsorg/education/whatischemistry/landmarks/lavoisier/antoine-laurent-lavoisier-commemorative-booklet.pdf"
+        },
+        {
+          "title" : "Traité Élémentaire de Chimie (Elementary Treatise of Chemistry) (1789)",
+          "url" : "https://archive.org/details/bim_eighteenth-century_traite-elementaire-de-c_lavoisier-antoine-laure_1799"
+        }
+      ],
+      "related": [
+        "Dmitri Mendeleev",
+        "Marie Curie",
+        "Joseph Priestley"
+      ]
+    },
+    {
+      "id": "louis_pasteur",
+      "name": "Louis Pasteur",
+      "portrait": "pic_scientists/pasteur.webp",
+      "country": "France",
+      "birth": 1822,
+      "death": 1895,
+      "era": "Industrial Age",
+      "field": [
+        "Microbiology",
+        "Chemistry",
+        "Medicine"
+      ],
+      "primaryField": "Biology",
+      "location": {
+        "lat": 47.322,
+        "lng": 5.0415
+      },
+      "mapPosition": {
+        "left": "49.1%",
+        "top": "32.5%"
+      },
+      "discoveries": [
+        "Germ Theory of Disease",
+        "Pasteurization",
+        "Rabies Vaccine",
+        "Anthrax Vaccine"
+      ],
+      "description": "Louis Pasteur was a French chemist and microbiologist whose discoveries transformed medicine, biology, and public health. He proved that microorganisms cause disease through the germ theory of disease, developed the process of pasteurization to prevent food spoilage, and created vaccines for diseases such as rabies and anthrax.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "papers": [
+        {
+        "title" : "Studies on Fermentation (1857)",
+        "url" : "https://www.google.co.in/books/edition/Collected_Scientific_Papers/rn88AAAAIAAJ?hl=en&gbpv=0"
+        }
+      ],
+      "related": [
+        "Robert Koch",
+        "Alexander Fleming",
+        "Edward Jenner"
+      ]
+    },
+    {
+      "id": "robert_hooke",
+      "name": "Robert Hooke",
+      "portrait": "pic_scientists/hooke.webp",
+      "country": "England",
+      "birth": 1635,
+      "death": 1703,
+      "era": "Scientific Revolution",
+      "field": [
+        "Physics",
+        "Biology",
+        "Astronomy"
+      ],
+      "primaryField": "Biology",
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "mapPosition": {
+        "left": "48.6%",
+        "top": "29.7%"
+      },
+      "discoveries": [
+        "Discovery of Cells",
+        "Hooke's Law of Elasticity",
+        "Microscopic Observations"
+      ],
+      "description": "Robert Hooke was an English scientist, architect, and polymath whose work contributed greatly to physics, biology, and microscopy. In his famous book 'Micrographia', he introduced the term 'cell' after observing cork tissue under a microscope. He also formulated Hooke's Law, describing the relationship between the force applied to an elastic object and its extension.",
+      "importance": 4,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_Hooke",
+      "papers": [
+        {
+          "title" : "Micrographia (1665),Lectures on Spring (1678)",
+          "url" : "https://makingscience.royalsociety.org/items/clp_20/classified-papers-volume-20-robert-hookes-papers?page=1"
+        }
+      ],
+      "related": [
+        "Sir Isaac Newton",
+        "Antonie van Leeuwenhoek",
+        "Christiaan Huygens"
+      ]
+    },
+    {
+      "id": "christiaan_huygens",
+      "name": "Christiaan Huygens",
+      "portrait": "pic_scientists/huygens.jpeg",
+      "country": "Netherlands",
+      "birth": 1629,
+      "death": 1695,
+      "era": "Scientific Revolution",
+      "field": [
+        "Physics",
+        "Astronomy",
+        "Mathematics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 52.0116,
+        "lng": 4.3571
+      },
+      "mapPosition": {
+        "left": "49.9%",
+        "top": "29.3%"
+      },
+      "discoveries": [
+        "Wave Theory of Light",
+        "Saturn's Rings and Moon Titan",
+        "Pendulum Clock",
+        "Centrifugal Force Theory"
+      ],
+      "description": "Christiaan Huygens was a Dutch mathematician, physicist, and astronomer who made major contributions during the Scientific Revolution. He developed the wave theory of light, invented the pendulum clock, and discovered Saturn's largest moon, Titan, along with the true nature of Saturn's rings. His work greatly advanced the fields of optics, mechanics, and astronomy.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Christiaan_Huygens",
+      "papers": [
+        {
+          "title" : "Horologium Oscillatorium (1673), Traité de la Lumière (1690)",
+          "url" : "https://archive.org/details/oeuvrescomplte07huyg/page/n13/mode/2up"
+        }
+      ],
+      "related": [
+        "Galileo Galilei",
+        "Sir Isaac Newton",
+        "Robert Hooke"
+      ]
+    },
+    {
+      "id": "edmond_halley",
+      "name": "Edmond Halley",
+      "portrait": "pic_scientists/halley.jpeg",
+      "country": "England",
+      "birth": 1656,
+      "death": 1742,
+      "era": "Scientific Revolution",
+      "field": [
+        "Astronomy",
+        "Mathematics",
+        "Geophysics"
+      ],
+      "primaryField": "Astronomy",
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "mapPosition": {
+        "left": "48.6%",
+        "top": "29.7%"
+      },
+      "discoveries": [
+        "Prediction of Halley's Comet Return",
+        "Star Proper Motion",
+        "Magnetic Field Mapping of Earth"
+      ],
+      "description": "Edmond Halley was an English astronomer, mathematician, and physicist best known for predicting the return of the comet that now bears his name. By applying Isaac Newton's laws of motion and gravity, he calculated that comets observed in different years were the same object returning periodically. He also created important star catalogs and studied Earth's magnetic field.",
+      "importance": 4,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Edmond_Halley",
+      "papers": [
+        {
+          "title" : "Correspondence and papers of Edmond Halley ",
+          "url"  : "https://archive.org/details/b31349274/page/n7/mode/2up"
+        }
+      ],
+      "related": [
+        "Sir Isaac Newton",
+        "Johannes Kepler",
+        "Tycho Brahe"
+      ]
+    },
+    {
+      "id": "tycho_brahe",
+      "name": "Tycho Brahe",
+      "portrait": "pic_scientists/brahe.webp",
+      "country": "Denmark",
+      "birth": 1546,
+      "death": 1601,
+      "era": "Renaissance",
+      "field": [
+        "Astronomy"
+      ],
+      "primaryField": "Astronomy",
+      "location": {
+        "lat": 55.6761,
+        "lng": 12.5683
+      },
+      "mapPosition": {
+        "left": "52.7%",
+        "top": "27.0%"
+      },
+      "discoveries": [
+        "Accurate Stellar and Planetary Observations",
+        "Tycho's Model of the Solar System",
+        "Observation of the 1572 Supernova"
+      ],
+      "description": "Tycho Brahe was a Danish astronomer known for making some of the most accurate astronomical observations before the invention of the telescope. His detailed measurements of planets and stars provided the essential data that Johannes Kepler later used to develop his laws of planetary motion. He also observed the 1572 supernova, challenging the belief that the heavens never changed.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Tycho_Brahe",
+      "papers": [
+        {
+          "title" : "De Stella Nova (1573)",
+          "url" : "https://causascientia.org/science/Tycho/DeNova.pdf"
+        }
+      ],
+      "related": [
+        "Johannes Kepler",
+        "Nicolaus Copernicus",
+        "Edmond Halley"
+      ]
+    },
+    {
+      "id": "blaise_pascal",
+      "name": "Blaise Pascal",
+      "portrait": "pic_scientists/pascal.JPG",
+      "country": "France",
+      "birth": 1623,
+      "death": 1662,
+      "era": "Scientific Revolution",
+      "field": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+      ],
+      "primaryField": "Mathematics",
+      "location": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "mapPosition": {
+        "left": "48.7%",
+        "top": "31.4%"
+      },
+      "discoveries": [
+        "Pascal's Law of Fluid Pressure",
+        "Foundations of Probability Theory",
+        "Pascaline Mechanical Calculator"
+      ],
+      "description": "Blaise Pascal was a French mathematician, physicist, inventor, and philosopher whose work influenced mathematics, physics, and engineering. He made fundamental contributions to probability theory, studied the behavior of fluids and pressure, and created the Pascaline, one of the earliest mechanical calculators. His discoveries helped shape modern mathematics and scientific thought.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+      "papers": [
+        {
+          "title": "Papers detailing barometric experiments and proving the existence of a vacuum",
+          "url" : "https://iep.utm.edu/pascal-b/#SH3c"
+        }
+      ],
+      "related": [
+        "René Descartes",
+        "Pierre de Fermat",
+        "Isaac Newton"
+      ]
+    },
+    {
+      "id": "rene_descartes",
+      "name": "René Descartes",
+      "portrait": "pic_scientists/descartes.webp",
+      "country": "France",
+      "birth": 1596,
+      "death": 1650,
+      "era": "Scientific Revolution",
+      "field": [
+        "Mathematics",
+        "Physics",
+        "Philosophy"
+      ],
+      "primaryField": "Mathematics",
+      "location": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "mapPosition": {
+        "left": "48.7%",
+        "top": "31.4%"
+      },
+      "discoveries": [
+        "Cartesian Coordinate System",
+        "Analytical Geometry",
+        "Contributions to Optics"
+      ],
+      "description": "René Descartes was a French mathematician, philosopher, and scientist often called the father of analytical geometry and modern philosophy. He developed the Cartesian coordinate system, which connects algebra and geometry and became essential to mathematics, physics, and engineering. His approach to scientific reasoning influenced generations of scientists and helped shape the Scientific Revolution.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+      "papers": [
+        {
+          "title" : "monumental philosophical and mathematical books and treatises, most notably Discourse on the Method (1637) and Meditations on First Philosophy (1641)",
+          "url" : "https://plato.stanford.edu/entries/descartes/"
+        }
+      ],
+      "related": [
+        "Blaise Pascal",
+        "Isaac Newton",
+        "Pierre de Fermat"
+      ]
+    },
+    {
+      "id": "leonhard_euler",
+      "name": "Leonhard Euler",
+      "portrait": "pic_scientists/euler.jpeg",
+      "country": "Switzerland",
+      "birth": 1707,
+      "death": 1783,
+      "era": "Enlightenment",
+      "field": [
+        "Mathematics",
+        "Physics"
+      ],
+      "primaryField": "Mathematics",
+      "location": {
+        "lat": 47.3769,
+        "lng": 8.5417
+      },
+      "mapPosition": {
+        "left": "50.1%",
+        "top": "32.5%"
+      },
+      "discoveries": [
+        "Euler's Formula",
+        "Euler's Identity",
+        "Graph Theory Foundations",
+        "Calculus of Variations"
+      ],
+      "description": "Leonhard Euler was a Swiss mathematician and physicist considered one of the most influential mathematicians in history. He made groundbreaking contributions across calculus, number theory, mechanics, optics, and graph theory. His notation and discoveries, including Euler's formula and Euler's identity, remain fundamental in modern mathematics and science.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+      "papers": [
+        {
+          "title" : "all papers",
+          "url" : "https://scholarlycommons.pacific.edu/euler-decade/"
+        }
+      ],
+      "related": [
+        "Carl Friedrich Gauss",
+        "Isaac Newton",
+        "Joseph-Louis Lagrange"
+      ]
+    },
+    {
+      "id": "carl_friedrich_gauss",
+      "name": "Carl Friedrich Gauss",
+      "portrait": "pic_scientists/gauss.jpg",
+      "country": "Germany",
+      "birth": 1777,
+      "death": 1855,
+      "era": "Industrial Age",
+      "field": [
+        "Mathematics",
+        "Physics",
+        "Astronomy"
+      ],
+      "primaryField": "Mathematics",
+      "location": {
+        "lat": 51.5339,
+        "lng": 9.9357
+      },
+      "mapPosition": {
+        "left": "53.5%",
+        "top": "26.3%"
+      },
+      "discoveries": [
+        "Gaussian Distribution",
+        "Fundamental Theorem of Algebra",
+        "Gauss's Law",
+        "Method of Least Squares"
+      ],
+      "description": "Carl Friedrich Gauss was a German mathematician, physicist, and astronomer often called the 'Prince of Mathematicians'. He made major contributions to number theory, algebra, statistics, astronomy, and electromagnetism. His work on the Gaussian distribution, least squares method, and mathematical physics has influenced countless scientific fields.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss",
+      "papers": [
+        {
+          "title" : "Doctoral Dissertation (1799)",
+          "url" : "https://mathshistory.st-andrews.ac.uk/Strick/gauss.pdf"
+        },
+        "Disquisitiones Arithmeticae (1801)",
+        "Theoria Motus Corporum Coelestium (1809)",
+        "General Investigations of Curved Surfaces (1827)"
+
+      ],
+      "related": [
+        "Leonhard Euler",
+        "Bernhard Riemann",
+        "Johannes Kepler"
+      ]
+    },
+    {
+      "id": "srinivasa_ramanujan",
+      "name": "Srinivasa Ramanujan",
+      "portrait": "pic_scientists/ramanujan.webp",
+      "country": "India",
+      "birth": 1887,
+      "death": 1920,
+      "era": "Modern Science",
+      "field": [
+        "Mathematics",
+        "Number Theory"
+      ],
+      "primaryField": "Mathematics",
+      "location": {
+        "lat": 11.6643,
+        "lng": 78.146
+      },
+      "mapPosition": {
+        "left": "65.1%",
+        "top": "55.8%"
+      },
+      "discoveries": [
+        "Ramanujan Prime",
+        "Ramanujan Summation",
+        "Mock Theta Functions",
+        "Highly Composite Numbers"
+      ],
+      "description": "Srinivasa Ramanujan was an Indian mathematician whose extraordinary discoveries transformed number theory and mathematical analysis. Despite having little formal training in mathematics, he developed thousands of original equations and identities. His collaboration with mathematician G. H. Hardy at Cambridge University produced some of the most important results in modern mathematics.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan",
+      "papers": [
+        {
+          "title" : "Collected Papers of Srinivasa Ramanujan",
+          "url" : "http://archive.org/details/pli.kerala.rare.28155/page/n3/mode/2up"
+        }
+      ],
+      "related": [
+        "Carl Friedrich Gauss",
+        "Leonhard Euler",
+        "G. H. Hardy"
+      ]
+    },
+    {
+      "id": "ada_lovelace",
+      "name": "Ada Lovelace",
+      "portrait": "pic_scientists/lovelace.webp",
+      "country": "England",
+      "birth": 1815,
+      "death": 1852,
+      "era": "Industrial Age",
+      "field": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "primaryField": "Computer Science",
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "mapPosition": {
+        "left": "48.6%",
+        "top": "29.7%"
+      },
+      "discoveries": [
+        "First Computer Algorithm",
+        "Concept of General-Purpose Computing"
+      ],
+      "description": "Ada Lovelace was an English mathematician and writer who is widely regarded as the world's first computer programmer. While working with Charles Babbage's Analytical Engine, she wrote an algorithm intended for the machine to calculate Bernoulli numbers. She also envisioned that computers could be used for more than calculations, predicting their future applications in areas such as music and art.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+      "papers": [
+        {
+          "title" : "Notes on the Analytical Engine (1843)",
+          "url" : "https://www.fourmilab.ch/babbage/sketch.html"
+        }
+      ],
+      "related": [
+        "Alan Turing",
+        "Charles Babbage",
+        "Srinivasa Ramanujan"
+      ]
+    },
+    {
+      "id": "alan_turing",
+      "name": "Alan Turing",
+      "portrait": "pic_scientists/turing.jpg",
+      "country": "England",
+      "birth": 1912,
+      "death": 1954,
+      "era": "Modern Science",
+      "field": [
+        "Computer Science",
+        "Mathematics",
+        "Cryptography"
+      ],
+      "primaryField": "Computer Science",
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "mapPosition": {
+        "left": "48.6%",
+        "top": "29.7%"
+      },
+      "discoveries": [
+        "Turing Machine",
+        "Foundations of Artificial Intelligence",
+        "Codebreaking of the Enigma Cipher"
+      ],
+      "description": "Alan Turing was an English mathematician, computer scientist, and cryptanalyst who is considered one of the fathers of modern computer science. He introduced the concept of the Turing machine, a theoretical model that defined the principles of computation. During World War II, his work at Bletchley Park helped break the German Enigma code, significantly contributing to Allied intelligence efforts.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Alan_Turing",
+      "papers": [
+        {
+          "title" : "the turing archive",
+          "url" : "https://turingarchive.kings.cam.ac.uk/"
+        }
+      ],
+      "related": [
+        "Ada Lovelace",
+        "John von Neumann",
+        "Claude Shannon"
+      ]
+    },
+    {
+      "id": "rosalind_franklin",
+      "name": "Rosalind_Franklin",
+      "portrait": "pic_scientists/rosalind_franklin.jpeg",
+      "country": "England",
+      "birth": 1920,
+      "death": 1958,
+      "era": "Modern Science",
+      "field": [
+        "Molecular Biology",
+        "Chemistry"
+      ],
+      "primaryField": "Biology",
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "mapPosition": {
+        "left": "48.6%",
+        "top": "29.7%"
+      },
+      "discoveries": [
+        "X-ray Diffraction Images of DNA",
+        "DNA Double Helix Structure Evidence",
+        "Research on Viruses and Coal"
+      ],
+      "description": "Rosalind Franklin was an English chemist and molecular biologist whose X-ray diffraction studies provided crucial evidence for discovering the structure of DNA. Her famous Photo 51 revealed important details about DNA's helical structure. She also made significant contributions to the study of viruses and materials science through her work with advanced X-ray techniques.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "papers": [
+        {
+          "title" : "Molecular Configuration in Sodium Thymonucleate (1953) , Virus Structure Studies (1950s)",
+          "url" : "https://wellcomecollection.org/works/ka25u4ft"
+        }
+      ],
+      "related": [
+        "James Watson",
+        "Francis Crick",
+        "Maurice Wilkins"
+      ]
+    },
+    {
+      "id": "niels_bohr",
+      "name": "Niels Bohr",
+      "portrait": "pic_scientists/bohr.jpg",
+      "country": "Denmark",
+      "birth": 1885,
+      "death": 1962,
+      "era": "Modern Physics",
+      "field": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 55.6761,
+        "lng": 12.5683
+      },
+      "mapPosition": {
+        "left": "52.7%",
+        "top": "27.0%"
+      },
+      "discoveries": [
+        "Bohr Model of the Atom",
+        "Quantum Theory of Atomic Structure",
+        "Principle of Complementarity"
+      ],
+      "description": "Niels Bohr was a Danish physicist who made fundamental contributions to the understanding of atomic structure and quantum theory. His model of the atom introduced the idea that electrons occupy specific energy levels, helping explain atomic behavior. He also played an important role in the development of quantum mechanics and nuclear physics.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Niels_Bohr",
+      "papers": [
+        {
+          "title" : "Structure of an Atom",
+          "url" : "https://www.nobelprize.org/uploads/2018/06/bohr-lecture.pdf"
+        },
+        {
+          "title" : "Bohr Uses Quantum Theory to Identify Atomic Structure",
+          "url" : "https://www.ebsco.com/research-starters/physics/bohr-uses-quantum-theory-identify-atomic-structure"
+        }
+      ],
+      "related": [
+        "Albert Einstein",
+        "Erwin Schrödinger",
+        "Werner Heisenberg"
+      ]
+    },
+    {
+      "id": "erwin_schrodinger",
+      "name": "Erwin Schrödinger",
+      "portrait": "pic_scientists/schrodinger.jpg",
+      "country": "Austria",
+      "birth": 1887,
+      "death": 1961,
+      "era": "Modern Physics",
+      "field": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 48.2082,
+        "lng": 16.3738
+      },
+      "mapPosition": {
+        "left": "52.3%",
+        "top": "32.0%"
+      },
+      "discoveries": [
+        "Schrödinger Equation",
+        "Wave Mechanics",
+        "Schrödinger's Cat Thought Experiment"
+      ],
+      "description": "Erwin Schrödinger was an Austrian physicist and one of the founders of quantum mechanics. He developed the Schrödinger equation, which describes how quantum systems evolve over time and remains one of the most important equations in modern physics. His famous thought experiment, Schrödinger's cat, highlighted the paradoxes of quantum superposition and measurement.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger",
+      "papers": [
+        {
+          "title" : "Schrödinger and the Genesis of Wave Mechanics",
+          "url" : "https://www.mpiwg-berlin.mpg.de/Preprints/P437.PDF"
+        },
+        {
+          "title" : "Schrödinger’s original quantum–mechanical solution for hydrogen",
+          "url" : "https://site.physics.georgetown.edu/~jkf/publications/schrodinger_ejp_2021.pdf"
+        },
+
+        {
+          "title" : "Quantization as an Eigenvalue Problem (1926)",
+          "url" : "https://thephysicsjournal.substack.com/p/the-schrodinger-equation"
+        },
+        {
+          "title" : "What Is Life? (1944)",
+          "url" : "https://www.physik.uni-kl.de/eggert/statmech/what-is-life.pdf"
+        }
+      ],
+      "related": [
+        "Niels Bohr",
+        "Werner Heisenberg",
+        "Albert Einstein"
+      ]
+    },
+    {
+      "id": "max_planck",
+      "name": "Max Planck",
+      "portrait": "pic_scientists/planck.jpg",
+      "country": "Germany",
+      "birth": 1858,
+      "death": 1947,
+      "era": "Modern Physics",
+      "field": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 52.52,
+        "lng": 13.405
+      },
+      "mapPosition": {
+        "left": "52.3%",
+        "top": "29.1%"
+      },
+      "discoveries": [
+        "Quantum Theory",
+        "Planck's Constant",
+        "Black-Body Radiation Law"
+      ],
+      "description": "Max Planck was a German theoretical physicist whose work marked the beginning of quantum theory. In 1900, he proposed that energy is emitted and absorbed in discrete packets called quanta, introducing Planck's constant. His revolutionary ideas solved the black-body radiation problem and laid the foundation for modern quantum mechanics.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Max_Planck",
+      "papers": [
+        {
+          "title" : "On the Theory of the Energy Distribution Law of the Normal Spectrum (1900) ",
+          "url" : "https://www.informationphilosopher.com/solutions/scientists/planck/Planck_1900b.pdf"
+        },
+        {
+          "title" : "The Theory of Heat Radiation (1906)",
+          "url" : "https://www.gutenberg.org/files/40030/40030-pdf.pdf"
+        }
+      ],
+      "related": [
+        "Albert Einstein",
+        "Niels Bohr",
+        "Erwin Schrödinger"
+      ]
+    },
+    {
+      "id": "werner_heisenberg",
+      "name": "Werner Heisenberg",
+      "portrait": "pic_scientists/heisenberg.jpeg",
+      "country": "Germany",
+      "birth": 1901,
+      "death": 1976,
+      "era": "Modern Physics",
+      "field": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 48.1351,
+        "lng": 11.582
+      },
+      "mapPosition": {
+        "left": "51.0%",
+        "top": "32.0%"
+      },
+      "discoveries": [
+        "Uncertainty Principle",
+        "Matrix Mechanics",
+        "Foundations of Quantum Mechanics"
+      ],
+      "description": "Werner Heisenberg was a German theoretical physicist and one of the principal founders of quantum mechanics. He formulated the Uncertainty Principle, which states that certain pairs of physical properties, such as position and momentum, cannot both be measured with perfect precision at the same time. His work on matrix mechanics became one of the earliest mathematical formulations of quantum theory.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Werner_Heisenberg",
+      "papers": [
+        {
+          "title" : "Quantum-Theoretical Reinterpretation of Kinematic and Mechanical Relations (1925)",
+          "url" : "https://www.neo-classical-physics.info/uploads/3/4/3/6/34363841/heisenberg_-_qm_interp_of_kin_and_mech.pdf"
+        },
+        {
+          "title" : "The Physical Principles of the Quantum Theory (1930)",
+          "url" : "https://www.hlevkin.com/hlevkin/90MathPhysBioBooks/Physics/Physics/Heizenberg/2015.166273.The-Physical-Principles-Of-The-Quantum-Theory.pdf"
+        }
+      ],
+      "related": [
+        "Max Planck",
+        "Niels Bohr",
+        "Erwin Schrödinger"
+      ]
+    },
+    {
+      "id": "richard_feynman",
+      "name": "Richard Feynman",
+      "portrait": "pic_scientists/feynman.jpg",
+      "country": "United States",
+      "birth": 1918,
+      "death": 1988,
+      "era": "Contemporary Science",
+      "field": [
+        "Physics",
+        "Quantum Electrodynamics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "mapPosition": {
+        "left": "15.5%",
+        "top": "40.0%"
+      },
+      "discoveries": [
+        "Feynman Diagrams",
+        "Quantum Electrodynamics",
+        "Path Integral Formulation"
+      ],
+      "description": "Richard Feynman was an American theoretical physicist renowned for his work in quantum electrodynamics (QED), for which he shared the 1965 Nobel Prize in Physics. He introduced Feynman diagrams, a revolutionary way of visualizing particle interactions, and developed the path integral formulation of quantum mechanics. He was also celebrated for his engaging teaching style and his role in investigating the Space Shuttle Challenger disaster.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Richard_Feynman",
+      "papers": [
+       {
+        "title" :  "Space-Time Approach to Quantum Electrodynamics (1949)",
+        "url" : "https://www.semanticscholar.org/paper/Space-time-approach-to-quantum-electrodynamics-Feynman/9d1d1af7cce67b0920d9359595d4e33baf5621cc"
+      },
+      {
+        "title" : "The Theory of Positrons (1949)",
+        "url" : "https://www.semanticscholar.org/paper/The-Theory-of-Positrons-Feynman/509e04c0b19a0aafd56ea853fbf50b3387c97a5e"
+      },
+      {
+        "title"  : "The Feynman Lectures on Physics (1964)",
+        "url" : "https://www.feynmanlectures.caltech.edu/"
+      }
+      ],
+      "related": [
+        "Julian Schwinger",
+        "Murray Gell-Mann",
+        "Albert Einstein"
+      ]
+    },
+    {
+      "id": "stephen_hawking",
+      "name": "Stephen Hawking",
+      "portrait": "pic_scientists/hawking.jpg",
+      "country": "England",
+      "birth": 1942,
+      "death": 2018,
+      "era": "Contemporary Science",
+      "field": [
+        "Physics",
+        "Cosmology",
+        "Astrophysics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 52.2053,
+        "lng": 0.1218
+      },
+      "mapPosition": {
+        "left": "48.8%",
+        "top": "29.2%"
+      },
+      "discoveries": [
+        "Hawking Radiation",
+        "Black Hole Thermodynamics",
+        "Singularity Theorems"
+      ],
+      "description": "Stephen Hawking was an English theoretical physicist, cosmologist, and author whose work transformed our understanding of black holes and the origins of the universe. He predicted that black holes emit radiation, now known as Hawking radiation, combining principles from quantum mechanics and general relativity. His research and bestselling books made complex scientific ideas accessible to millions around the world.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+      "papers": [
+      {
+        "title"  :  "Particle Creation by Black Holes (1975)",
+        "url" : "https://www.semanticscholar.org/paper/Particle-creation-by-black-holes-Hawking/6b9d83c086ea962b6e7ef5caaaf2c241a4d47ff8"
+      },
+      {
+         "title" : "A Brief History of Time (1988)",
+         "url" : "https://www.fisica.net/relatividade/stephen_hawking_a_brief_history_of_time.pdf"
+      }
+      ],
+      "related": [
+        "Albert Einstein",
+        "Roger Penrose",
+        "Edwin Hubble"
+      ]
+    },
+    {
+      "id": "edwin_hubble",
+      "name": "Edwin Hubble",
+      "portrait": "pic_scientists/hubble.webp",
+      "country": "United States",
+      "birth": 1889,
+      "death": 1953,
+      "era": "Modern Science",
+      "field": [
+        "Astronomy",
+        "Astrophysics"
+      ],
+      "primaryField": "Astronomy",
+      "location": {
+        "lat": 34.1478,
+        "lng": -118.1445
+      },
+      "mapPosition": {
+        "left": "15.6%",
+        "top": "40.0%"
+      },
+      "discoveries": [
+        "Expansion of the Universe",
+        "Hubble's Law",
+        "Existence of Galaxies Beyond the Milky Way"
+      ],
+      "description": "Edwin Hubble was an American astronomer whose observations revolutionized our understanding of the universe. He demonstrated that many 'spiral nebulae' are actually separate galaxies beyond the Milky Way and discovered that galaxies are moving away from one another, leading to Hubble's Law and providing the first observational evidence that the universe is expanding.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Hubble",
+      "papers": [
+        {
+          "title" : "A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae (1929)",
+          "url" : "https://www.astro.rug.nl/~weygaert/tim1publication/cosmo2007/literature/hubble.1929.pdf"
+        },
+        {
+          "title" : "Cepheids in Spiral Nebulae (1925)",
+          "url" : "https://ui.adsabs.harvard.edu/abs/1925PA.....33..252H/abstract"
+        }
+      ],
+      "related": [
+        "Georges Lemaître",
+        "Stephen Hawking",
+        "Albert Einstein"
+      ]
+    },
+    {
+      "id": "carl_sagan",
+      "name": "Carl Sagan",
+      "portrait": "pic_scientists/sagan.JPG",
+      "country": "United States",
+      "birth": 1934,
+      "death": 1996,
+      "era": "Contemporary Science",
+      "field": [
+        "Astronomy",
+        "Astrophysics",
+        "Planetary Science"
+      ],
+      "primaryField": "Astronomy",
+      "location": {
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "mapPosition": {
+        "left": "24.8%",
+        "top": "35.1%"
+      },
+      "discoveries": [
+        "Research on Planetary Atmospheres",
+        "Studies of Venus and Mars",
+        "SETI Advocacy"
+      ],
+      "description": "Carl Sagan was an American astronomer, planetary scientist, and science communicator who helped bring astronomy to millions through his books and the television series 'Cosmos'. His research advanced the understanding of the atmospheres of Venus and Mars, the possibility of extraterrestrial life, and the evolution of planets. He also played a major role in the Voyager Golden Record project, which carried messages from Earth into interstellar space.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Carl_Sagan",
+      "papers": [
+        "Books : ",
+        "Intelligent Life in the Universe (1966)",
+        "Cosmos (1980)",
+        "Pale Blue Dot (1994)"
+      ],
+      "related": [
+        "Edwin Hubble",
+        "Stephen Hawking",
+        "Frank Drake"
+      ]
+    },
+    {
+      "id": "edward_jenner",
+      "name": "Edward Jenner",
+      "portrait": "pic_scientists/jenner.jpg",
+      "country": "England",
+      "birth": 1749,
+      "death": 1823,
+      "era": "Enlightenment",
+      "field": [
+        "Medicine",
+        "Immunology"
+      ],
+      "primaryField": "Medicine",
+      "location": {
+        "lat": 51.8642,
+        "lng": -2.2382
+      },
+      "mapPosition": {
+        "left": "48.1%",
+        "top": "29.4%"
+      },
+      "discoveries": [
+        "Smallpox Vaccine",
+        "Foundation of Vaccination",
+        "Cowpox Immunization"
+      ],
+      "description": "Edward Jenner was an English physician and scientist who pioneered the world's first successful vaccine. In 1796, he demonstrated that exposure to cowpox could protect people from the deadly smallpox virus, establishing the science of immunization. His groundbreaking work laid the foundation for modern vaccines and public health, ultimately leading to the global eradication of smallpox.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Edward_Jenner",
+      "papers": [
+        {
+          "title" : "An Inquiry into the Causes and Effects of the Variolae Vaccinae (1798)",
+          "url" : "https://upload.wikimedia.org/wikipedia/commons/6/6f/An_inquiry_into_the_causes_and_effects_of_the_variol%C3%A6_vaccin%C3%A6%2C_a_disease_discovered_in_some_of_the_western_counties_of_England%2C_particularly_Gloucestershire%2C_and_known_by_the_name_of_the_cow_pox_%28IA_b24759247%29.pdf"
+        }
+        ],
+      "related": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Robert Koch"
+      ]
+    },
+    {
+      "id": "alexander_fleming",
+      "name": "Alexander Fleming",
+      "portrait": "pic_scientists/fleming.jpg",
+      "country": "Scotland",
+      "birth": 1881,
+      "death": 1955,
+      "era": "Modern Science",
+      "field": [
+        "Medicine",
+        "Microbiology",
+        "Bacteriology"
+      ],
+      "primaryField": "Medicine",
+      "location": {
+        "lat": 55.9533,
+        "lng": -3.1883
+      },
+      "mapPosition": {
+        "left": "48.6%",
+        "top": "26.7%"
+      },
+      "discoveries": [
+        "Penicillin",
+        "Lysozyme",
+        "Antibiotic Therapy"
+      ],
+      "description": "Alexander Fleming was a Scottish physician and microbiologist best known for discovering penicillin in 1928, the world's first widely used antibiotic. His accidental observation of the Penicillium mold inhibiting bacterial growth revolutionized medicine and saved millions of lives. He also discovered the antibacterial enzyme lysozyme, contributing significantly to the field of microbiology.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "papers": [
+        {
+          "title" : "On the Antibacterial Action of Cultures of a Penicillium (1929)",
+          "url" : "https://www.ndorms.ox.ac.uk/files/news/19290510_afleming_ontheantibacterilactionofculturesofapenicillium_bjep.pdf"
+        },
+        {
+          "title" : "On a Remarkable Bacteriolytic Element Found in Tissues and Secretions (1922)",
+          "url" : "https://watermark02.silverchair.com/rspb.1922.0023.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAz4wggM6BgkqhkiG9w0BBwagggMrMIIDJwIBADCCAyAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMsHBJvuk8VQ-eV28DAgEQgIIC8diocAdhqK0exTUUhHLs2E6NhB00on23bkWEvcyfoTgbacIEmzcDFjFm8yj97G_KDGAeqsM0bPS448fo7CDckHEwolPz3rzmcNo-9mlPRnHFukj6dhElaCFUreYzvsiwFi2bgfkmN3A2tTqtG1nYPfRuHc0bt4EGYSR1ieGqiLOKD15_hmxWxM8eOvmsqAZy-n5IkWE1IW-QrB7s1AHs1GT0txdYO1uO4gKjsf8YTEbsRP_I3xEOd8Quc4Tu0wEXfkl0KpjrvugzPLX8NOThbIVAof1BzWmRM97C6lUccfu74dzhOraY3pQstDJjW3iX474dRJDOoz_ZSMioJVGvu0Opd6RE3JQG3YBiJMf5DHuChgPowDsFOIQTRNZooaBtQFbHJJbyUT5HkpWLzDVGB5Kx4Lq_MBpVObwndznseFfHJo2_AED1hU1r62Z7Hrd78WasHiibbnQbSW4vP9aQDx179V53cN70E3wdIrunaNf5d4VOhELbDMBvF6_D4zAt5Fr2Ou8nmw391lTF2rQ-icrk1JM2ZgOsW-YBZsLLWcN-qQgLkhi-gIeUiG3gVTbOMxgR2I1EMQQ4lY41agy_jSRJnnGG8xSR2hubldZ3qjrHDJJFy4ffQ3fsd5UNZJlifo0a0oC5Tic3O5Zfbl9_408eamOsJxg4sot_TXbGa-JgFPOpjF1Dpj-Xoa7BOjjNiflY1o8PcIpQjcpMJAR2PdpdkuU3UpYHgcwRFJOAug94xMoLqEaZ-CmMMXAZSl6FVnZsCFLB0x-gdnxpm9nhK4YjHynVCWacGGdeQ8BZiR_nxqPcpYIugpFQdMi4yfXhv0bv1jOlM5h-8_gvlqexpyTR_rVX7vUNfsb3yaKzOa48zgT9gK-GlbkUwxo7DmLJAB91_ZTeRmkzMuTMMehnJ8kF_LB5c-l468-FfIhln2D8YtJIg9ZsWb82itGnltAryIm6z8Z7GJMzNyzpw-4Z_3294jKi82MnUHtidezv_8C-ZA"
+        }
+      ],
+      "related": [
+        "Louis Pasteur",
+        "Edward Jenner",
+        "Howard Florey"
+      ]
+    },
+    {
+      "id": "barbara_mcclintock",
+      "name": "Barbara McClintock",
+      "portrait": "pic_scientists/mcclintock.jpg",
+      "country": "United States",
+      "birth": 1902,
+      "death": 1992,
+      "era": "Contemporary Science",
+      "field": [
+        "Genetics",
+        "Cytogenetics",
+        "Biology"
+      ],
+      "primaryField": "Genetics",
+      "location": {
+        "lat": 42.443,
+        "lng": -76.5019
+      },
+      "mapPosition": {
+        "left": "24.3%",
+        "top": "34.1%"
+      },
+      "discoveries": [
+        "Transposable Genetic Elements",
+        "Jumping Genes",
+        "Chromosome Mapping in Maize"
+      ],
+      "description": "Barbara McClintock was an American geneticist whose pioneering research led to the discovery of transposable elements, commonly known as 'jumping genes.' Her work showed that genes can move to different positions within a chromosome, fundamentally changing the understanding of genetics. Initially overlooked, her discoveries were later recognized as groundbreaking, earning her the 1983 Nobel Prize in Physiology or Medicine.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbara_McClintock",
+      "papers": [
+        { 
+          "title" : "The Origin and Behavior of Mutable Loci in Maize (1950)",
+          "url" : "https://www.pnas.org/doi/pdf/10.1073/pnas.36.6.344"
+        },
+        {
+          "title" : "The Discovery and Characterization of Transposable Elements (1951)",
+          "url" : "https://profiles.nlm.nih.gov/spotlight/ll/catalog/nlm:nlmuid-101584613X7-doc"
+        }
+      ],
+      "related": [
+        "Gregor Mendel",
+        "Rosalind Franklin",
+        "Thomas Hunt Morgan"
+      ]
+    },
+    {
+      "id": "dorothy_hodgkin",
+      "name": "Dorothy Hodgkin",
+      "portrait": "pic_scientists/hodgkin.jpg",
+      "country": "England",
+      "birth": 1910,
+      "death": 1994,
+      "era": "Contemporary Science",
+      "field": [
+        "Chemistry",
+        "X-ray Crystallography"
+      ],
+      "primaryField": "Chemistry",
+      "location": {
+        "lat": 51.752,
+        "lng": -1.2577
+      },
+      "mapPosition": {
+        "left": "48.3%",
+        "top": "29.5%"
+      },
+      "discoveries": [
+        "Structure of Penicillin",
+        "Structure of Vitamin B12",
+        "Structure of Insulin"
+      ],
+      "description": "Dorothy Hodgkin was a British chemist who pioneered the use of X-ray crystallography to determine the three-dimensional structures of biologically important molecules. She solved the structures of penicillin, vitamin B12, and insulin, discoveries that greatly advanced medicine, biochemistry, and pharmaceutical science. She was awarded the 1964 Nobel Prize in Chemistry for her groundbreaking work.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Hodgkin",
+      "papers": [
+        {
+          "title" : "The Structure of Penicillin (1945)",
+          "url" : "https://ukrbiochemjournal.org/wp-content/uploads/2024/12/Danilova_96_6.pdf"
+        },
+        {
+          "title" : "The Structure of Vitamin B12 (1956)",
+          "url" : "https://scientist.sg/literature/Hodgkin.pdf"
+        },
+        {
+          "title" : "The Structure of Insulin (1969)",
+          "url" : "https://www.bio.fsu.edu/~dfadool/AshleyTechnique3.pdf"
+        }
+      ],
+      "related": [
+        "Rosalind Franklin",
+        "Max Perutz",
+        "John Kendrew"
+      ]
+    },
+    {
+      "id": "chien_shiung_wu",
+      "name": "Chien-Shiung Wu",
+      "portrait": "pic_scientists/wu.jpg",
+      "country": "China",
+      "birth": 1912,
+      "death": 1997,
+      "era": "Contemporary Science",
+      "field": [
+        "Physics",
+        "Nuclear Physics",
+        "Experimental Physics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 31.2304,
+        "lng": 121.4737
+      },
+      "mapPosition": {
+        "left": "76.8%",
+        "top": "43.9%"
+      },
+      "discoveries": [
+        "Wu Experiment",
+        "Violation of Parity Conservation",
+        "Contributions to Beta Decay"
+      ],
+      "description": "Chien-Shiung Wu was a Chinese-American experimental physicist whose famous Wu Experiment provided the first experimental proof that parity is not conserved in weak nuclear interactions. This groundbreaking discovery transformed particle physics and confirmed the theoretical predictions of Tsung-Dao Lee and Chen-Ning Yang. She also made significant contributions to nuclear physics and beta decay throughout her distinguished career.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu",
+      "papers": [
+        {
+          "title" : "Experimental Test of Parity Conservation in Beta Decay (1957)",
+          "url" : "https://indico.ihep.ac.cn/event/8183/contributions/100386/attachments/53504/61612/JC77-1_PhysRev.105.1413-5.pdf"
+        },
+        "Beta Decay (1965)",
+        {
+          "title" : "A Biographical Memoir by noemie benczer-koller",
+          "url" : "https://www.nasonline.org/wp-content/uploads/2024/06/wu-chien-shiung.pdf"
+        }
+      ],
+      "related": [
+        "Tsung-Dao Lee",
+        "Chen-Ning Yang",
+        "Niels Bohr"
+      ]
+    },
+    {
+      "id": "c_v_raman",
+      "name": "C. V. Raman",
+      "portrait": "pic_scientists/raman.JPG",
+      "country": "India",
+      "birth": 1888,
+      "death": 1970,
+      "era": "Modern Science",
+      "field": [
+        "Physics",
+        "Optics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 13.0827,
+        "lng": 80.2707
+      },
+      "mapPosition": {
+        "left": "67%",
+        "top": "53.6%"
+      },
+      "discoveries": [
+        "Raman Effect",
+        "Inelastic Scattering of Light",
+        "Molecular Spectroscopy"
+      ],
+      "description": "Sir Chandrasekhara Venkata Raman, popularly known as C. V. Raman, was an Indian physicist whose discovery of the Raman Effect revolutionized the study of light and matter. His work demonstrated that light changes wavelength when scattered by molecules, laying the foundation for Raman spectroscopy, a technique widely used in chemistry, physics, medicine, and materials science. In 1930, he became the first Asian scientist to receive the Nobel Prize in Physics.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/C._V._Raman",
+      "papers": [
+        {
+          "title" : "A New Type of Secondary Radiation (1928)",
+          "url" : "https://www.fkf.mpg.de/5471886/Raman_2015.pdf"
+        },
+        {
+          "title" : "transcription on The Vespiary",
+          "url" : "https://www.thevespiary.org/library/Files_Uploaded_by_Users/no1uno/pdf/Instrumentation/Raman/Sir.CV.RAMAN/Raman.A.New.Radiation.pdf"
+        },
+        {
+          "title" : "Molecular Diffraction of Light (1928)",
+          "url" : "https://archive.org/details/in.ernet.dli.2015.162385/mode/2up"
+        }
+      ],
+      "related": [
+        "Satyendra Nath Bose",
+        "Jagadish Chandra Bose",
+        "Albert Einstein"
+      ]
+    },
+    {
+      "id": "jagadish_chandra_bose",
+      "name": "Jagadish Chandra Bose",
+      "portrait": "pic_scientists/bose.jpg",
+      "country": "India",
+      "birth": 1858,
+      "death": 1937,
+      "era": "Modern Science",
+      "field": [
+        "Physics",
+        "Biology",
+        "Botany"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 22.5726,
+        "lng": 88.3639
+      },
+      "mapPosition": {
+        "left": "64.0%",
+        "top": "48.3%"
+      },
+      "discoveries": [
+        "Wireless Radio Wave Transmission",
+        "Crescograph",
+        "Plant Response to Stimuli"
+      ],
+      "description": "Sir Jagadish Chandra Bose was an Indian polymath, physicist, biologist, and botanist whose pioneering research spanned both the physical and life sciences. He demonstrated the transmission of radio waves over long distances and invented the crescograph, an instrument capable of measuring tiny plant movements. His experiments showed that plants respond to external stimuli, making him one of the founders of modern plant physiology and biophysics.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose",
+      "papers": [
+        "Books : ",
+        {
+          "title" : "Response in the Living and Non-Living (1902)",
+          "url" : "https://archive.org/details/responseinliving1902bose/page/n5/mode/2up"
+        },
+        {
+          "title" : "Plant Response as a Means of Physiological Investigation (1906)",
+          "url" : "https://archive.org/details/plantresponseasm0000srij"
+        },
+        {
+          "title" : "The Nervous Mechanism Of Plants (1926)",
+          "url" : "https://archive.org/details/in.ernet.dli.2015.271805"
+        }
+      ],
+      "related": [
+        "C. V. Raman",
+        "Satyendra Nath Bose",
+        "Nikola Tesla"
+      ]
+    },
+    {
+      "id": "homi_j_bhabha",
+      "name": "Homi J. Bhabha",
+      "portrait": "pic_scientists/bhabha.jpg",
+      "country": "India",
+      "birth": 1909,
+      "death": 1966,
+      "era": "Contemporary Science",
+      "field": [
+        "Physics",
+        "Nuclear Physics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 19.076,
+        "lng": 72.8777
+      },
+      "mapPosition": {
+        "left": "65.7%",
+        "top": "51.7%"
+      },
+      "discoveries": [
+        "Bhabha Scattering",
+        "Cosmic Ray Cascade Theory",
+        "Foundations of India's Nuclear Program"
+      ],
+      "description": "Homi Jehangir Bhabha was an Indian nuclear physicist widely regarded as the father of India's nuclear program. His research on cosmic rays and electron-positron interactions led to the discovery of Bhabha scattering, an important concept in particle physics. He founded the Tata Institute of Fundamental Research (TIFR) and played a pivotal role in establishing India's atomic energy program.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Homi_J._Bhabha",
+      "papers": [
+        {
+          "title" : "The Scattering of Positrons by Electrons (1935)",
+          "url" : "https://watermark02.silverchair.com/rspa.1936.0046.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAz4wggM6BgkqhkiG9w0BBwagggMrMIIDJwIBADCCAyAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMSiXZj1fQiz1DI4EGAgEQgIIC8VTtx2yzgZt7QaTg2wxlHeWQQD7K02kQm-AWRTJiQWTUwuqzvRlwLcTL_DqUrJrfX6Q_QSBP7KZcv4bMlekT8o7MRlZtETULbRbw7C5IGsn4NO5D0VWHEmGYCRl5uS5s3Dk0sDR-l5Gw0Jw01DGyJ27NNvCqsYWrOTGt43Yjr0dhSQSE1Ngs1ucRiw5Th0ePyl4aiw45Am0_iiVbDjEUCL169f0Ne1e1_x-pJ6lLAZow-S18y5nyqEGw65-9hQxVr-rEt-WEi7NeK8ZJE-YmkedtzW0NFGlLowO0X9yDNs7sIG4DBca6HJoEfG2LuldU9Gs_aPLv6Mhl8-TgjzFwaVyffnfKs7GB9K0DBMlMwq4cIYr2n107sx3bKebIg8_p99YR6sRu-w0DzuvYwL8IKHxLlnlzhg-EICQCfUagqIwGPER8vSEjR_K8Whxil7m6pHCVBZOEh_JSfVrElYWXIgaAcLzi51faj6sEptoOVuzw-pv6dvpcR3wALKns9h22Sz2o40RqfnwRh9JXSv3TJlzzADaidS-EfwMDN5--i9cnnsEAAaZFK52zILB9AHxZiOt6A9X3mmuNPe6wxRAfJdjG6xByzyyLA_VaxnCIJxcqcVV8vrPWpArTQGu5rT4PR-SVbEMG83emafGpRGaTxB0uaCcSWA0zRbDzZZ_w60wsgD-BCBb-XdCG8iEnXWmL_FLTNjxaKD7AG5ohciQgk1gWasafxsejeQbczwHMYcWb3lAftbb152TrhYdO_foIgdyEqxibmQ9BkXfJeWb230w9gj6AfdFbpYh2UReQHvs3q1PxQvMj2Qe19DimNfWD-YQA8QzmiIZO_tqxeCBFcorObr2den9aRkSCpdYAmBLItBlTRJJJzbQRSZOs4zCPCFb0xjhgRXOy1pWwPBiifY1GMa7XQMKBCK5LuBx_cKQkr10FoaObh62_cDyvriIPoCFQbsjwvv1OJPwJziL_U1pExXu0wECkUNlJqV4Zn1UErw"
+        },
+        {
+          "title" : "The Passage of Fast Electrons and the Theory of Cosmic Showers (1937)",
+          "url" : "https://watermark02.silverchair.com/rspa.1937.0082.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAz8wggM7BgkqhkiG9w0BBwagggMsMIIDKAIBADCCAyEGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMLZKzng5yxNuyd88TAgEQgIIC8lLj1ToBw-eGYbVG20S8NVx0d-NbicPxQfpupT0WW3wTTXy6abAU4KUtrhjsq4n3iY_h2Wfgzve-RqN32dE9dpYa5J2nHxy0sEiYXp13GxCFHTvDHop9poR5Uf08nVsisWG3mu-cp-Qp8lNaw43RySPUubtVJyFlSCo-Qzs4WokCUdB4uNPpTOZEWiTW2qn2f6jWEbwBdckQWCERusomXGuaLOWm4OfodBUI9AcHvLZpJjYMotQg0nsaHLaDmzq3IY8aytMlaUWAJBTbEJTfZJpY40fHle5KalrPEj2dok8GQRtE5tXQhv_d98cyyva-hDDtjJURjFg4vE7TmTy5XRcy9ghI4rfO_Y2rr4r0GiVibpjArWBMRjkfQvMggNj4ltFsHfUFVaTRS8_sgRv7R2F2dDintRU84zXV62Uoha4z4SNzq9ESepnCL4-u3yNyqTktF9mJDEmDGoHDP0LkH76O8PR5LquvzshdykNwpaDqw4E3f34vPFl3CqexPPe5nESlXBmRO_cLf1qMDGLXi3ZO0lJFmm70RyN89X9l_YlbJz1uNLq4Su13DGusU_--r9jhynTT2U64xjx1cAWFX6MvZiEhMNKJxH8OQFaTYlpCepwH2HZfAGxAt3nHvcENZqnd_P6c7uzNjylBPjxcNVtBXFLuU66o4ztvQy6PxDd4FjqshZxzMhzYGe-EKjDmIO2CPmjclz1NsczMREXKhsq-lmgBJkQy69kf-QLMCOmcBpQ4HHsFkEp-UHwxLIV1laFDGMpBrLNAxJj746ivRDJ0RjYrg5PnN-tdwNlxh94jENnslQ7YVOKWQFvSaH7OTkqGF75diL50JmBm-yFSPDc_0STTTBvJ6vkFQU-D4E6sy7H9ASLZnPPiT6-38CcB6FBX-cSimaUBnwnLL9gN-9FG2vSOev9jWdWCfxqVd-rI19bS651ZlH4fTleaz_DtzDwQBOwLsTfJ9YYFTcqFOMhme5QxW0IY9Rs1oeK5DHI0zd8"
+        }
+      ],
+      "related": [
+        "C. V. Raman",
+        "Satyendra Nath Bose",
+        "A. P. J. Abdul Kalam"
+      ]
+    },
+    {
+      "id": "a_p_j_abdul_kalam",
+      "name": "A. P. J. Abdul Kalam",
+      "portrait": "pic_scientists/kalam.webp",
+      "country": "India",
+      "birth": 1931,
+      "death": 2015,
+      "era": "Contemporary Science",
+      "field": [
+        "Aerospace Engineering",
+        "Rocket Science",
+        "Missile Technology"
+      ],
+      "primaryField": "Aerospace Engineering",
+      "location": {
+        "lat": 9.2881,
+        "lng": 79.3174
+      },
+      "mapPosition": {
+        "left": "66%",
+        "top": "55%"
+      },
+      "discoveries": [
+        "SLV-III Launch Vehicle Development",
+        "Integrated Guided Missile Development Programme",
+        "Contributions to India's Space and Missile Programs"
+      ],
+      "description": "Avul Pakir Jainulabdeen Abdul Kalam was an Indian aerospace scientist who played a leading role in India's civilian space program and missile development efforts. Often called the 'Missile Man of India,' he contributed to the development of the SLV-III launch vehicle and the Agni and Prithvi missile systems. He later served as the 11th President of India and inspired millions through his work in science, education, and public service.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam",
+      "papers": [
+        "Work : ",
+        {
+          "title" : "Wings of Fire (1999)",
+          "url" : "https://archive.org/details/isbn_9788173711466"
+        },
+        {
+          "title" : "India 2020: A Vision for the New Millennium (1998)",
+          "url" : "https://archive.org/details/india2020visionforthenewmillenniuma.p.j.abdulkalamrajany.s._884_j"
+        },
+        {
+          "title" : "Ignited Minds (2002)",
+          "url" : "https://ia802900.us.archive.org/35/items/ignitedmindsabdulkalamapj_879_e/Ignited%20Minds%20-%20Abdul%20Kalam%20APJ.pdf"
+        }
+      ],
+      "related": [
+        "Homi J. Bhabha",
+        "Vikram Sarabhai",
+        "Satish Dhawan"
+      ]
+    },
+    {
+      "id": "satyendra_nath_bose",
+      "name": "Satyendra Nath Bose",
+      "portrait": "pic_scientists/sn_bose.jpg",
+      "country": "India",
+      "birth": 1894,
+      "death": 1974,
+      "era": "Modern Physics",
+      "field": [
+        "Physics",
+        "Quantum Mechanics",
+        "Mathematics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 22.5726,
+        "lng": 88.3639
+      },
+      "mapPosition": {
+        "left": "65.4%",
+        "top": "48.5%"
+      },
+      "discoveries": [
+        "Bose-Einstein Statistics",
+        "Foundations of Bose-Einstein Condensate",
+        "Quantum Statistics of Photons"
+      ],
+      "description": "Satyendra Nath Bose was an Indian theoretical physicist whose work on quantum statistics transformed modern physics. In 1924, he developed a new method for describing photons, which Albert Einstein extended to atoms, leading to the concept of the Bose-Einstein condensate. In recognition of his pioneering contributions, the class of particles known as bosons was named in his honor.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose",
+      "papers": [
+        {
+          "title" : "Planck's Law and the Hypothesis of Light Quanta (1924)",
+          "url" : "https://www.informationphilosopher.com/solutions/scientists/bose/BOSE_1924.pdf"
+        },
+        {
+          "title" : "A Biographical Memoirs",
+          "url" : "https://www.insaindia.res.in/BM/BM7_8307.pdf"
+        }
+      ],
+      "related": [
+        "Albert Einstein",
+        "C. V. Raman",
+        "Homi J. Bhabha"
+      ]
+    },
+    {
+      "id": "ibn_al_haytham",
+      "name": "Ibn al-Haytham",
+      "portrait": "pic_scientists/ibn_al_haytham.jpg",
+      "country": "Iraq",
+      "birth": 965,
+      "death": 1040,
+      "era": "Islamic Golden Age",
+      "field": [
+        "Optics",
+        "Physics",
+        "Mathematics"
+      ],
+      "primaryField": "Optics",
+      "location": {
+        "lat": 30.5085,
+        "lng": 47.7804
+      },
+      "mapPosition": {
+        "left": "57.2%",
+        "top": "44.0%"
+      },
+      "discoveries": [
+        "Book of Optics",
+        "Theory of Vision",
+        "Camera Obscura",
+        "Experimental Scientific Method"
+      ],
+      "description": "Ibn al-Haytham, also known in the West as Alhazen, was an Arab mathematician, physicist, and astronomer who is widely regarded as the father of modern optics. His experiments demonstrated that vision occurs when light enters the eye, disproving earlier theories that the eyes emit rays. His emphasis on observation, experimentation, and hypothesis testing helped establish the foundations of the modern scientific method.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ibn_al-Haytham",
+      "papers": [
+        {
+          "title" : "Book of Optics (Kitab al-Manazir) (1011–1021)",
+          "url" : "https://monoskop.org/images/f/ff/The_Optics_of_Ibn_Al-Haytham_Books_I-III_On_Direct_Vision_Sabra_1989.pdf"
+        },
+        {
+          "title" : "Treatise on Light (Risāla fī al-Ḍawʿ)",
+          "url" : "https://www.unanijournal.com/articles/350/9-2-17-570.pdf"
+        },
+        {
+          "title" : "On the Shape of the Eclipse (Maqāla fī Ṣūrat al-Kusūf)",
+          "url" : "https://content.e-bookshelf.de/media/reading/L-8349536-08248324f1.pdf"
+        }
+      ],
+      "related": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Roger Bacon"
+      ]
+    },
+    {
+      "id": "al_khwarizmi",
+      "name": "Al-Khwarizmi",
+      "portrait": "pic_scientists/al_khwarizmi.avif",
+      "country": "Uzbekistan",
+      "birth": 780,
+      "death": 850,
+      "era": "Islamic Golden Age",
+      "field": [
+        "Mathematics",
+        "Astronomy",
+        "Geography"
+      ],
+      "primaryField": "Mathematics",
+      "location": {
+        "lat": 41.3775,
+        "lng": 60.3636
+      },
+      "mapPosition": {
+        "left": "62.6%",
+        "top": "36.8%"
+      },
+      "discoveries": [
+        "Foundations of Algebra",
+        "Algorithmic Methods",
+        "Hindu-Arabic Numeral System"
+      ],
+      "description": "Al-Khwarizmi was a Persian mathematician, astronomer, and geographer during the Islamic Golden Age. His pioneering work on algebra earned him the title 'Father of Algebra,' and the word 'algorithm' is derived from the Latinized form of his name. His writings introduced the Hindu-Arabic numeral system to the Western world and profoundly influenced mathematics, science, and computing.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "papers": [
+        {
+          "title" : "The Compendious Book on Calculation by Completion and Balancing",
+          "url" : "https://commons.wikimedia.org/wiki/File:The_algebra_of_Mohammed_ben_Musa_(IA_algebraofmohamme00khuwrich).pdf"
+        },
+        {
+          "title" : "On the Calculation with Hindu Numerals (No copies of the original Arabic text (Kitāb al-Jamʿ wat-Tafrīq bi-Ḥisāb al-Hind) exist today. History preserves this work entirely through 12th-century Latin translations, commonly titled Algoritmi de numero Indorum (which birthed the word 'algorithm'))",
+          "url" : "https://ioinformatics.org/journal/v11si_2017_71_74.pdf"
+        },
+        {
+          "title" : "Kitab Surat al-Ard (Book of the Description of the Earth)",
+          "url" : ""
+        }
+      ],
+      "related": [
+        "Leonhard Euler",
+        "Carl Friedrich Gauss",
+        "Ibn al-Haytham"
+      ]
+    },
+    {
+      "id": "avicenna",
+      "name": "Avicenna (Ibn Sina)",
+      "portrait": "pic_scientists/avicenna.jpg",
+      "country": "Iran",
+      "birth": 980,
+      "death": 1037,
+      "era": "Islamic Golden Age",
+      "field": [
+        "Medicine",
+        "Philosophy",
+        "Astronomy"
+      ],
+      "primaryField": "Medicine",
+      "location": {
+        "lat": 36.2605,
+        "lng": 59.6168
+      },
+      "mapPosition": {
+        "left": "61.4%",
+        "top": "40.2%"
+      },
+      "discoveries": [
+        "The Canon of Medicine",
+        "Advances in Clinical Medicine",
+        "Contributions to Pharmacology"
+      ],
+      "description": "Avicenna, also known as Ibn Sina, was a Persian polymath regarded as one of the greatest physicians in history. His masterpiece, 'The Canon of Medicine,' served as the standard medical textbook in Europe and the Islamic world for several centuries. Beyond medicine, he made significant contributions to philosophy, astronomy, mathematics, and natural sciences, leaving a lasting impact on both Eastern and Western scholarship.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Avicenna",
+      "papers": [
+        {
+          "title" : "The Canon of Medicine (Al-Qanun fi al-Tibb)",
+          "url" : "https://dn760103.eu.archive.org/0/items/CanonOfMedicine/Canon-of-Medicine.pdf"
+        },
+        {
+          "title" : "The Book of Healing (Kitab al-Shifa)",
+          "url" : "https://archive.org/details/avicenna-the-physics-of-the-healing-kitab-al-shifa-a-parallel-english-arabic-text-in-two-volumes/mode/2up"
+        },
+        {
+          "title" : "The Book of Salvation (Kitab al-Najat)",
+          "url" : "https://archive.org/details/dli.ministry.26203/19525.12845-%2520%2528part-1%2529/"
+        }
+      ],
+      "related": [
+        "Al-Khwarizmi",
+        "Ibn al-Haytham",
+        "Aristotle"
+      ]
+    },
+    {
+      "id": "archimedes",
+      "name": "Archimedes",
+      "portrait": "pic_scientists/archimedes.jpg",
+      "country": "Italy",
+      "birth": -287,
+      "death": -212,
+      "era": "Ancient Era",
+      "field": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+      ],
+      "primaryField": "Mathematics",
+      "location": {
+        "lat": 37.0755,
+        "lng": 15.2866
+      },
+      "mapPosition": {
+        "left": "49.9%",
+        "top": "39.4%"
+      },
+      "discoveries": [
+        "Archimedes' Principle",
+        "Law of the Lever",
+        "Method of Exhaustion",
+        "Archimedean Screw"
+      ],
+      "description": "Archimedes was a Greek mathematician, physicist, inventor, engineer, and astronomer widely regarded as one of the greatest scientific minds of the ancient world. He discovered the principle of buoyancy, developed the law of the lever, and made pioneering contributions to geometry and mechanics. His inventions and mathematical methods influenced science and engineering for over two thousand years.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Archimedes",
+      "papers": [
+        {
+          "title" : "On Floating Bodies",
+          "url" : "https://web.math.utk.edu/~afreire/m400su06/Floating%20Bodies,%20Sand%20Reckoner.pdf"
+        },
+        {
+          "title" : "On the Sphere and Cylinder",
+          "url" : "https://www.aproged.pt/biblioteca/worksofarchimede.pdf"
+        },
+        {
+          "title" : "The Method of Mechanical Theorems",
+          "url" : "https://www.ifi.unicamp.br/~assis/The-Illustrated-Method-of-Archimedes.pdf"
+        },
+        {
+          "title" : "Measurement of a Circle",
+          "url" : "https://nonagon.org/ExLibris/sites/default/files/pdf/Archimedes-Circle.pdf"
+        }
+      ],
+      "related": [
+        "Aristotle",
+        "Galileo Galilei",
+        "Isaac Newton"
+      ]
+    },
+    {
+      "id": "aristotle",
+      "name": "Aristotle",
+      "portrait": "pic_scientists/aristotle.webp",
+      "country": "Greece",
+      "birth": -384,
+      "death": -322,
+      "era": "Ancient Era",
+      "field": [
+        "Natural Science",
+        "Biology",
+        "Philosophy"
+      ],
+      "primaryField": "Natural Science",
+      "location": {
+        "lat": 40.5873,
+        "lng": 23.797
+      },
+      "mapPosition": {
+        "left": "52.8%",
+        "top": "37.1%"
+      },
+      "discoveries": [
+        "Foundations of Biology",
+        "Formal Logic",
+        "Classification of Living Organisms",
+        "Scientific Observation"
+      ],
+      "description": "Aristotle was an ancient Greek philosopher and polymath whose work laid the foundations for biology, zoology, logic, ethics, and natural science. Through careful observation and systematic classification of living organisms, he became one of the earliest scientists to study the natural world empirically. His writings influenced scientific thought for nearly two thousand years and shaped the development of Western philosophy and science.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Aristotle",
+      "papers": [
+        {
+          "title" : "History of Animals",
+          "url" : "https://archive.org/details/thompson-1910-aristotle-animals/mode/2up"
+        },
+        {
+          "title" : "Parts of Animals",
+          "url" : "https://dn790002.ca.archive.org/0/items/partsofanimals00arisuoft/partsofanimals00arisuoft.pdf"
+        },
+        {
+          "title" : "Physics",
+          "url" : "https://www.documentacatholicaomnia.eu/03d/-384_-322,_Aristoteles,_02_Physics,_EN.pdf"
+        },
+        {
+          "title" : "Metaphysics",
+          "url" : "https://www.documentacatholicaomnia.eu/03d/-384_-322,_Aristoteles,_13_Metaphysics,_EN.pdf"
+        }
+      ],
+      "related": [
+        "Archimedes",
+        "Avicenna (Ibn Sina)",
+        "Charles Darwin"
+      ]
+    },
+    {
+      "id": "thales_of_miletus",
+      "name": "Thales of Miletus",
+      "portrait": "pic_scientists/thales.jpg",
+      "country": "Turkey",
+      "birth": -624,
+      "death": -546,
+      "era": "Ancient Era",
+      "field": [
+        "Mathematics",
+        "Astronomy",
+        "Natural Philosophy"
+      ],
+      "primaryField": "Mathematics",
+      "location": {
+        "lat": 37.53,
+        "lng": 27.275
+      },
+      "mapPosition": {
+        "left": "53.2%",
+        "top": "39.2%"
+      },
+      "discoveries": [
+        "Thales' Theorem",
+        "Prediction of the Solar Eclipse of 585 BCE",
+        "Foundations of Greek Geometry",
+        "Natural Explanations for Physical Phenomena"
+      ],
+      "description": "Thales of Miletus was an ancient Greek mathematician, astronomer, and philosopher widely regarded as one of the Seven Sages of Greece and one of the earliest scientists in history. He is credited with introducing logical reasoning into the study of nature, making important contributions to geometry, and predicting the solar eclipse of 585 BCE. His ideas laid the foundations for mathematics, astronomy, and the scientific method in the Western world.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Thales_of_Miletus",
+      "papers": [
+        "No surviving written works"
+      ],
+      "related": [
+        "Pythagoras",
+        "Aristotle",
+        "Archimedes"
+      ]
+    },
+    {
+      "id": "zhang_heng",
+      "name": "Zhang Heng",
+      "portrait": "pic_scientists/zhang_heng.jpg",
+      "country": "China",
+      "birth": 78,
+      "death": 139,
+      "era": "Ancient Era",
+      "field": [
+        "Astronomy",
+        "Mathematics",
+        "Engineering"
+      ],
+      "primaryField": "Astronomy",
+      "location": {
+        "lat": 34.7466,
+        "lng": 113.6254
+      },
+      "mapPosition": {
+        "left": "75.4%",
+        "top": "41.5%"
+      },
+      "discoveries": [
+        "Seismoscope",
+        "Celestial Globe",
+        "Astronomical Star Catalogs",
+        "Lunar Eclipse Explanations"
+      ],
+      "description": "Zhang Heng was a Chinese astronomer, mathematician, engineer, inventor, and poet of the Eastern Han Dynasty. He invented the world's first seismoscope, capable of detecting distant earthquakes, and made significant advances in astronomy by improving celestial globes and mapping the night sky. His innovations in science and engineering made him one of the greatest polymaths of ancient China.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Zhang_Heng",
+      "papers": [
+        "Ling Xian (Spiritual Constitution of the Universe)",
+        "On the Constitution of the Heavens",
+        "Treatise on the Armillary Sphere"
+      ],
+      "related": [
+        "Archimedes",
+        "Galileo Galilei",
+        "Nicolaus Copernicus"
+      ]
+    },
+    {
+      "id": "anders_celsius",
+      "name": "Anders Celsius",
+      "portrait": "pic_scientists/celsius.jpg",
+      "country": "Sweden",
+      "birth": 1701,
+      "death": 1744,
+      "era": "Enlightenment",
+      "field": [
+        "Astronomy",
+        "Physics"
+      ],
+      "primaryField": "Astronomy",
+      "location": {
+        "lat": 60.1282,
+        "lng": 17.6435
+      },
+      "mapPosition": {
+        "left": "54.9%",
+        "top": "24.0%"
+      },
+      "discoveries": [
+        "Celsius Temperature Scale",
+        "Measurements of Earth's Shape",
+        "Aurora Borealis Observations"
+      ],
+      "description": "Anders Celsius was a Swedish astronomer and physicist best known for creating the Celsius temperature scale in 1742. He made significant contributions to astronomy by measuring the shape of the Earth during an expedition to Lapland, confirming that the Earth is flattened at the poles. His observations of the aurora borealis also advanced the understanding of geomagnetism.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Anders_Celsius",
+      "papers": [
+        "Observations on the Aurora Borealis (1733)",
+        {
+          "title" : "A New Temperature Scale (1742)",
+          "url" : "https://www.scribd.com/document/422494074/Celsius-is-a-Measurement-of-Temperature-in-Which-0-Degrees-Represents-the-Freezing-Point-of-Water"
+        }
+      ],
+      "related": [
+        "Carl Linnaeus",
+        "Isaac Newton",
+        "Galileo Galilei"
+      ]
+    },
+    {
+      "id": "heike_kamerlingh_onnes",
+      "name": "Heike Kamerlingh Onnes",
+      "portrait": "pic_scientists/onnes.jpg",
+      "country": "Netherlands",
+      "birth": 1853,
+      "death": 1926,
+      "era": "Modern Science",
+      "field": [
+        "Physics",
+        "Cryogenics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 53.2194,
+        "lng": 6.5665
+      },
+      "mapPosition": {
+        "left": "50.7%",
+        "top": "28.6%"
+      },
+      "discoveries": [
+        "Liquefaction of Helium",
+        "Superconductivity",
+        "Low-Temperature Physics"
+      ],
+      "description": "Heike Kamerlingh Onnes was a Dutch physicist renowned for his pioneering work in cryogenics. In 1908, he became the first person to liquefy helium, reaching temperatures close to absolute zero. Three years later, he discovered superconductivity—the phenomenon in which certain materials lose all electrical resistance at extremely low temperatures. His groundbreaking research laid the foundation for modern low-temperature physics and earned him the 1913 Nobel Prize in Physics.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes",
+      "papers": [
+        "Further Experiments with Liquid Helium (1908) :",
+        {
+          "title" : "Heike Kamerlingh Onnes - Nobel Lecture PDF:",
+          "url" : "https://www.nobelprize.org/uploads/2018/06/onnes-lecture.pdf"
+        },
+        {
+          "title" : "The Superconductivity of Mercury (1911)",
+          "url" : "https://www.europhysicsnews.org/articles/epn/pdf/2011/01/epn2011421p21.pdf"
+        }
+      ],
+      "related": [
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "Albert Einstein"
+      ]
+    },
+    {
+      "id": "ernest_rutherford",
+      "name": "Ernest Rutherford",
+      "portrait": "pic_scientists/rutherford.jpg",
+      "country": "New Zealand",
+      "birth": 1871,
+      "death": 1937,
+      "era": "Modern Physics",
+      "field": [
+        "Physics",
+        "Chemistry",
+        "Nuclear Physics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": -41.8046,
+        "lng": 172.2218
+      },
+      "mapPosition": {
+        "left": "90.5%",
+        "top": "83.1%"
+      },
+      "discoveries": [
+        "Atomic Nucleus",
+        "Rutherford Model of the Atom",
+        "Radioactive Half-Life",
+        "Proton"
+      ],
+      "description": "Ernest Rutherford was a New Zealand physicist often regarded as the father of nuclear physics. Through his famous gold foil experiment, he demonstrated that atoms contain a small, dense, positively charged nucleus, fundamentally changing the understanding of atomic structure. He also discovered the concept of radioactive half-life, identified the proton, and was awarded the 1908 Nobel Prize in Chemistry for his investigations into radioactivity.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Rutherford",
+      "papers": [
+        {
+          "title" : "The Scattering of α and β Particles by Matter (1908) and The Structure of the Atom (1911)",
+          "url" : "https://mrmackenzie.co.uk/wp-content/uploads/2011/05/Rutherford-paper.pdf"
+        },
+        {
+          "title" : "Collision of α Particles with Light Atoms (1919)",
+          "url" : ""
+        }
+      ],
+      "related": [
+        "Niels Bohr",
+        "James Chadwick",
+        "Albert Einstein"
+      ]
+    },
+    {
+      "id": "francois_englert",
+      "name": "François Englert",
+      "portrait": "pic_scientists/englert.jpg",
+      "country": "Belgium",
+      "birth": 1932,
+      "death": 0,
+      "era": "Contemporary Science",
+      "field": [
+        "Physics",
+        "Theoretical Physics"
+      ],
+      "primaryField": "Physics",
+      "location": {
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "mapPosition": {
+        "left": "49.6%",
+        "top": "30.1%"
+      },
+      "discoveries": [
+        "Brout–Englert–Higgs Mechanism",
+        "Mass Generation of Elementary Particles",
+        "Electroweak Symmetry Breaking"
+      ],
+      "description": "François Englert is a Belgian theoretical physicist best known for co-developing the Brout–Englert–Higgs mechanism, which explains how elementary particles acquire mass through interaction with the Higgs field. This groundbreaking theory became one of the foundations of the Standard Model of particle physics and was experimentally confirmed by the discovery of the Higgs boson at CERN in 2012. He was awarded the 2013 Nobel Prize in Physics alongside Peter Higgs.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Englert",
+      "papers": [
+        {
+          "title" : "Broken Symmetry and the Mass of Gauge Vector Mesons (1964)",
+          "url" : "https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.13.321"
+        },
+        {
+          "title" : "Spontaneous Symmetry Breaking and Gauge Fields (1964)",
+          "url" : "https://www.nobelprize.org/uploads/2018/06/nambu-slides.pdf"
+        }
+      ],
+      "related": [
+        "Peter Higgs",
+        "Albert Einstein",
+        "Niels Bohr"
+      ]
+    },
+    {
+      "id": "carl_linnaeus",
+      "name": "Carl Linnaeus",
+      "portrait": "pic_scientists/linnaeus.jpg",
+      "country": "Sweden",
+      "birth": 1707,
+      "death": 1778,
+      "era": "Enlightenment",
+      "field": [
+        "Biology",
+        "Botany",
+        "Taxonomy"
+      ],
+      "primaryField": "Biology",
+      "location": {
+        "lat": 56.7426,
+        "lng": 14.6948
+      },
+      "mapPosition": {
+        "left": "53.5%",
+        "top": "26.3%"
+      },
+      "discoveries": [
+        "Binomial Nomenclature",
+        "Modern Biological Classification",
+        "Hierarchical Taxonomic System"
+      ],
+      "description": "Carl Linnaeus was a Swedish biologist, physician, and botanist known as the father of modern taxonomy. He introduced the binomial system of naming organisms, giving every species a two-part Latin name consisting of its genus and species. His hierarchical classification system revolutionized biology and remains the foundation of modern scientific naming and classification.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Carl_Linnaeus",
+      "papers": [
+        {
+          "title" : "Systema Naturae (1735) (wiki because translated text isnt avialable) ",
+          "url" : "https://en.wikipedia.org/wiki/Systema_Naturae"
+        },
+        {
+          "title" : "Species Plantarum, Sections I-III by Carl von Linné (1753)",
+          "url" : "https://www.gutenberg.org/ebooks/20771"
+        },
+        {
+          "title" : "Philosophia Botanica (1751)",
+          "url" : "https://archive.org/details/elementsofbotany00rose/mode/2up"
+        }
+      ],
+      "related": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Anders Celsius"
+      ]
+    },
+    {
+      "id": "santiago_ramon_y_cajal",
+      "name": "Santiago Ramón y Cajal",
+      "portrait": "pic_scientists/cajal.jpeg",
+      "country": "Spain",
+      "birth": 1852,
+      "death": 1934,
+      "era": "Modern Science",
+      "field": [
+        "Medicine",
+        "Neuroscience",
+        "Histology"
+      ],
+      "primaryField": "Neuroscience",
+      "location": {
+        "lat": 42.2746,
+        "lng": -0.5497
+      },
+      "mapPosition": {
+        "left": "46.7%",
+        "top": "35.8%"
+      },
+      "discoveries": [
+        "Neuron Doctrine",
+        "Structure of the Nervous System",
+        "Foundations of Modern Neuroscience"
+      ],
+      "description": "Santiago Ramón y Cajal was a Spanish neuroscientist, physician, and histologist widely regarded as the father of modern neuroscience. Using improved staining techniques and meticulous microscopic observations, he demonstrated that the nervous system is composed of individual cells called neurons rather than a continuous network. His groundbreaking work transformed the understanding of the brain and earned him the 1906 Nobel Prize in Physiology or Medicine.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal",
+      "papers": [
+        {
+          "title" : "Textura del Sistema Nervioso del Hombre y de los Vertebrados (1899–1904)",
+          "url" : "https://www.nobelprize.org/uploads/2018/06/cajal-lecture.pdf"
+        },
+        {
+          "title" : "Histology of the nervous system of man and vertebrates",
+          "url" : "https://archive.org/details/histologyofnervo0002ramo/page/n3/mode/2up"
+        },
+        {
+          "title" : "Recollections of My Life (1917)",
+          "url"  : "https://www.gutenberg.org/files/58331/58331-h/58331-h.htm"
+        }
+      ],
+      "related": [
+        "Camillo Golgi",
+        "Barbara McClintock",
+        "Gregor Mendel"
+      ]
+    },
+    {
+      "id": "george_de_hevesy",
+      "name": "George de Hevesy",
+      "portrait": "pic_scientists/hevesy.jpg",
+      "country": "Hungary",
+      "birth": 1885,
+      "death": 1966,
+      "era": "Modern Science",
+      "field": [
+        "Chemistry",
+        "Radiochemistry",
+        "Nuclear Medicine"
+      ],
+      "primaryField": "Chemistry",
+      "location": {
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "mapPosition": {
+        "left": "52.9%",
+        "top": "32.4%"
+      },
+      "discoveries": [
+        "Radioactive Tracer Technique",
+        "Applications of Isotopes in Biology",
+        "Foundations of Nuclear Medicine"
+      ],
+      "description": "George de Hevesy was a Hungarian radiochemist who pioneered the use of radioactive isotopes as tracers to study chemical and biological processes. His tracer method revolutionized medicine, biology, and chemistry by allowing scientists to follow the movement of substances within living organisms. For this groundbreaking work, he was awarded the 1943 Nobel Prize in Chemistry and is regarded as one of the founders of nuclear medicine.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/George_de_Hevesy",
+      "papers": [
+        {
+          "title" : "Some applications of isotopic indicators",
+          "url" : "https://www.nobelprize.org/uploads/2018/06/hevesy-lecture.pdf"
+        },
+        {
+          "title" : "Radioactive Indicators (1948)",
+          "url" : "https://www.science.org/doi/10.1126/science.109.2824.152.a"
+        },
+        {
+          "title" : "Adventures in Radioisotope Research (1962)",
+          "url" : "https://archive.org/details/adventuresinradi02heve/mode/2up"
+        }
+      ],
+      "related": [
+        "Marie Curie",
+        "Ernest Rutherford",
+        "Otto Hahn"
+      ]
+    },
+    {
+      "id": "mario_molina",
+      "name": "Mario Molina",
+      "portrait": "pic_scientists/molina.jpg",
+      "country": "Mexico",
+      "birth": 1943,
+      "death": 2020,
+      "era": "Contemporary Science",
+      "field": [
+        "Chemistry",
+        "Atmospheric Chemistry",
+        "Environmental Science"
+      ],
+      "primaryField": "Chemistry",
+      "location": {
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "mapPosition": {
+        "left": "19.6%",
+        "top": "49.0%"
+      },
+      "discoveries": [
+        "Ozone Layer Depletion by CFCs",
+        "Atmospheric Chemistry of Chlorofluorocarbons",
+        "Environmental Impact of Industrial Chemicals"
+      ],
+      "description": "Mario Molina was a Mexican chemist whose groundbreaking research demonstrated that chlorofluorocarbons (CFCs) released into the atmosphere destroy Earth's protective ozone layer. His work led directly to the 1987 Montreal Protocol, one of the most successful international environmental agreements in history. He shared the 1995 Nobel Prize in Chemistry for his pioneering contributions to atmospheric chemistry.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mario_Molina",
+      "papers": [
+        {
+          "title" : "Stratospheric Sink for Chlorofluoromethanes: Chlorine Atom-Catalysed Destruction of Ozone (1974)",
+          "url" : "https://centromariomolina.org/wp-content/uploads/2012/05/Molina-et.-al-Nature-Stratospheric-sink-for-chlorofluoromethanes-1974.pdf"
+        },
+        {
+          "title" : "The Role of Atmospheric Chemistry in Protecting the Ozone Layer",
+          "url" : "https://www.nobelprize.org/uploads/2018/06/molina-lecture.pdf"
+        }
+      ],
+      "related": [
+        "Paul Crutzen",
+        "Sherwood Rowland",
+        "Rachel Carson"
+      ]
+    },
+    {
+      "id": "osamu_shimomura",
+      "name": "Osamu Shimomura",
+      "portrait": "pic_scientists/shimomura.jpg",
+      "country": "Japan",
+      "birth": 1928,
+      "death": 2018,
+      "era": "Contemporary Science",
+      "field": [
+        "Chemistry",
+        "Biochemistry",
+        "Marine Biology"
+      ],
+      "primaryField": "Chemistry",
+      "location": {
+        "lat": 35.1815,
+        "lng": 136.9066
+      },
+      "mapPosition": {
+        "left": "81.6%",
+        "top": "41.4%"
+      },
+      "discoveries": [
+        "Green Fluorescent Protein (GFP)",
+        "Aequorin",
+        "Bioluminescent Proteins"
+      ],
+      "description": "Osamu Shimomura was a Japanese organic chemist and marine biologist best known for the discovery of Green Fluorescent Protein (GFP) and the luminescent protein aequorin from the jellyfish *Aequorea victoria*. GFP revolutionized biological and medical research by allowing scientists to visualize gene expression and cellular processes in living organisms. For this groundbreaking work, he shared the 2008 Nobel Prize in Chemistry.",
+      "importance": 5,
+      "featured": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Shimomura",
+      "papers": [
+        {
+          "title" : "Extraction, Purification and Properties of Aequorin (1962)",
+          "url" : "https://onlinelibrary.wiley.com/doi/abs/10.1002/jcp.1030590302"
+        },
+        {
+          "title" : "DISCOVERY OF GREEN FLUORESCENT PROTEIN, GFP",
+          "url" : "https://www.nobelprize.org/uploads/2018/06/shimomura_lecture.pdf"
+        }
+      ],
+      "related": [
+        "Roger Y. Tsien",
+        "Martin Chalfie",
+        "Barbara McClintock"
+      ]
+    }
+  ]
+}
